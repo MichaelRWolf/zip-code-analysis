@@ -1,0 +1,578 @@
+State/County Count, City Name, List of State/Counties
+6,Altamont,KS/Labette MO/Daviess NY/Albany UT/Duchesne IL/Effingham TN/Grundy
+6,Altoona,FL/Lake AL/Etowah IA/Polk PA/Blair WI/Eau Claire KS/Wilson
+6,Atwood,IL/Piatt TN/Carroll IN/Kosciusko KS/Rawlins CO/Logan OK/Hughes
+6,Baker,LA/East Baton Rouge CA/San Bernardino FL/Okaloosa MT/Fallon WV/Hardy NV/White Pine
+6,Bancroft,ID/Caribou MI/Shiawassee IA/Kossuth WI/Portage WV/Putnam NE/Cuming
+6,Belvidere,NC/Perquimans TN/Franklin NE/Thayer SD/Mellette IL/Boone NJ/Warren
+6,Bennington,NE/Douglas VT/Bennington KS/Ottawa IN/Switzerland NH/Hillsborough OK/Bryan
+6,Bethany,IL/Moultrie LA/Caddo CT/South Central Connecticut MO/Harrison WV/Brooke OK/Oklahoma
+6,Bethlehem,KY/Henry CT/Naugatuck Valley GA/Barrow PA/Lehigh IN/Clark NH/Grafton PA/Northampton
+6,Beulah,WY/Crook MS/Bolivar MI/Benzie MO/Phelps CO/Pueblo ND/Mercer
+6,Boston,IN/Wayne VA/Culpeper GA/Thomas KY/Nelson NY/Erie MA/Suffolk
+6,Bowling Green,VA/Caroline KY/Warren IN/Clay OH/Wood MO/Pike FL/Hardee
+6,Buchanan,NY/Westchester VA/Botetourt MI/Berrien TN/Henry ND/Stutsman GA/Haralson
+6,Buena Vista,TN/Carroll CO/Chaffee VA/Rockbridge PA/Allegheny NM/Mora GA/Marion
+6,Burbank,OH/Wayne CA/Los Angeles SD/Clay IL/Cook WA/Walla Walla OK/Osage
+6,Calhoun,IL/Richland MO/Henry TN/McMinn GA/Gordon KY/McLean LA/Ouachita
+6,Calvin,KY/Bell WV/Nicholas ND/Cavalier PA/Huntingdon OK/Hughes LA/Winn
+6,Canaan,VT/Essex ME/Somerset NH/Grafton NY/Columbia IN/Jefferson CT/Northwest Hills
+6,Carlton,GA/Oglethorpe PA/Mercer WA/Okanogan TX/Comanche OR/Yamhill MN/Carlton
+6,Cecil,GA/Cook AL/Montgomery WI/Shawano OH/Paulding AR/Franklin PA/Washington
+6,Cedar Grove,TN/Carroll IN/Franklin NC/Orange NJ/Essex WI/Sheboygan WV/Kanawha
+6,Center,TX/Shelby MO/Ralls NE/Knox ND/Oliver CO/Saguache KY/Metcalfe
+6,Cherokee,IA/Cherokee TX/San Saba AL/Colbert OK/Alfalfa NC/Swain KS/Crawford
+6,Clyde,OH/Sandusky MO/Nodaway TX/Callahan NY/Wayne NC/Haywood KS/Cloud
+6,Coleman,OK/Johnston WI/Marinette GA/Randolph FL/Sumter MI/Midland TX/Coleman
+6,Colton,CA/San Bernardino WA/Whitman OH/Henry NY/St. Lawrence OR/Clackamas SD/Minnehaha
+6,Corning,KS/Nemaha IA/Adams AR/Clay CA/Tehama OH/Perry NY/Steuben
+6,Courtland,AL/Lawrence MS/Panola MN/Nicollet VA/Southampton CA/Sacramento KS/Republic
+6,Cromwell,IA/Union IN/Noble KY/Ohio OK/Seminole CT/Lower Connecticut River Valley MN/Carlton
+6,Cuba,NM/Sandoval IL/Fulton MO/Crawford NY/Allegany AL/Sumter KS/Republic
+6,Cushing,IA/Ida OK/Payne MN/Morrison TX/Nacogdoches WI/Polk ME/Knox
+6,Custer,SD/Custer WI/Portage WA/Whatcom KY/Breckinridge MT/Yellowstone MI/Mason
+6,Darlington,SC/Darlington MO/Gentry MD/Harford IN/Montgomery PA/Beaver WI/Lafayette
+6,Davis,OK/Murray WV/Tucker CA/Yolo SD/Turner IL/Stephenson NC/Carteret
+6,De Soto,IA/Dallas KS/Johnson WI/Vernon MO/Jefferson GA/Lee IL/Jackson
+6,Deer Park,WI/St. Croix TX/Harris CA/Napa AL/Washington WA/Spokane NY/Suffolk
+6,Dorchester,NE/Saline NJ/Cumberland SC/Dorchester MA/Suffolk IA/Allamakee WI/Clark
+6,Eagle,ID/Ada AK/Southeast Fairbanks CO/Eagle WI/Waukesha MI/Clinton NE/Cass
+6,Edgerton,WY/Natrona OH/Williams KS/Johnson MN/Pipestone MO/Platte WI/Rock
+6,Edwards,CA/Kern MO/Benton CO/Eagle IL/Peoria MS/Hinds NY/St. Lawrence
+6,Elizabethtown,IL/Hardin IN/Bartholomew NC/Bladen PA/Lancaster NY/Essex KY/Hardin
+6,Emerson,GA/Bartow NE/Thurston AR/Columbia NJ/Bergen IA/Montgomery KY/Lewis
+6,Englewood,TN/McMinn OH/Montgomery KS/Clark FL/Sarasota NJ/Bergen CO/Arapahoe FL/Charlotte
+6,Erie,PA/Erie IL/Whiteside CO/Weld KS/Neosho ND/Cass MI/Monroe
+6,Ethel,AR/Arkansas WA/Lewis WV/Logan MS/Attala LA/East Feliciana MO/Macon
+6,Etna,CA/Siskiyou OH/Licking ME/Penobscot WY/Lincoln NH/Grafton NY/Tompkins
+6,Evansville,IN/Vanderburgh WY/Natrona IL/Randolph WI/Rock AR/Washington MN/Douglas
+6,Exeter,NE/Fillmore ME/Penobscot MO/Barry RI/Washington NH/Rockingham CA/Tulare
+6,Ferndale,CA/Humboldt NY/Sullivan PA/Bucks FL/Lake WA/Whatcom MI/Oakland
+6,Fillmore,MO/Andrew IN/Putnam UT/Millard IL/Montgomery NY/Allegany CA/Ventura
+6,Flat Rock,MI/Wayne IL/Crawford AL/Jackson OH/Seneca NC/Henderson IN/Shelby
+6,Frederick,MD/Frederick IL/Schuyler CO/Weld SD/Brown PA/Montgomery OK/Tillman
+6,Fredericksburg,PA/Lebanon VA/Spotsylvania TX/Gillespie VA/Fredericksburg IA/Chickasaw VA/Stafford OH/Holmes IN/Washington
+6,Fruitland,ID/Payette UT/Duchesne NM/San Juan IA/Muscatine WA/Stevens MD/Wicomico
+6,Galena,MD/Kent IL/Jo Daviess MO/Stone OH/Delaware KS/Cherokee AK/Yukon-Koyukuk
+6,Girard,PA/Erie OH/Trumbull KS/Crawford IL/Macoupin GA/Burke TX/Kent
+6,Grandview,IA/Louisa TX/Johnson MO/Jackson WA/Yakima IN/Spencer TN/Rhea
+6,Gray,IA/Audubon GA/Jones PA/Somerset KY/Knox LA/Terrebonne ME/Cumberland
+6,Greenwich,CT/Western Connecticut KS/Sedgwick UT/Piute NY/Washington NJ/Cumberland OH/Huron
+6,Harmony,MN/Fillmore PA/Butler IN/Clay ME/Somerset NC/Iredell RI/Providence
+6,Hawthorne,NY/Westchester WI/Douglas NV/Mineral CA/Los Angeles NJ/Passaic FL/Alachua
+6,Hinckley,IL/DeKalb OH/Medina UT/Millard ME/Somerset MN/Pine NY/Oneida
+6,Holbrook,AZ/Navajo MA/Norfolk PA/Greene NE/Furnas ID/Oneida NY/Suffolk
+6,Holden,UT/Millard MO/Johnson WV/Logan ME/Hancock LA/Livingston MA/Worcester
+6,Howard,CO/Fremont OH/Knox SD/Miner KS/Elk GA/Taylor PA/Centre
+6,Hurley,VA/Buchanan WI/Iron MO/Stone NM/Grant SD/Turner NY/Ulster
+6,Irvington,NY/Westchester VA/Lancaster AL/Mobile NJ/Essex KY/Breckinridge IL/Washington
+6,Jeffersonville,NY/Sullivan KY/Montgomery VT/Lamoille GA/Twiggs IN/Clark OH/Fayette
+6,Lakeview,OH/Logan NC/Moore TX/Hall MI/Montcalm OR/Lake AR/Baxter
+6,Lamont,CA/Kern WA/Whitman IA/Buchanan FL/Taylor OK/Grant MI/Ottawa
+6,Leeds,UT/Washington MA/Hampshire AL/Jefferson ND/Benson ME/Androscoggin NY/Greene
+6,Lenox,AL/Conecuh GA/Cook MO/Dent TN/Dyer IA/Taylor MA/Berkshire
+6,Littleton,IL/Schuyler CO/Douglas MA/Middlesex CO/Jefferson WV/Wetzel NH/Grafton CO/Arapahoe NC/Halifax
+6,Loretto,MI/Dickinson PA/Cambria TN/Lawrence VA/Essex KY/Marion MN/Hennepin
+6,Martinsburg,OH/Knox IA/Keokuk MO/Audrain PA/Blair WV/Berkeley NY/Lewis
+6,Martinsville,MO/Harrison IL/Clark IN/Morgan VA/Henry OH/Clinton NJ/Somerset
+6,Maxwell,NM/Colfax CA/Colusa IA/Polk IN/Hancock NE/Lincoln TX/Caldwell
+6,Medina,WA/King OH/Medina NY/Orleans TN/Madison TX/Bandera ND/Stutsman
+6,Melvin,MI/Sanilac AL/Choctaw IL/Ford TX/Concho IA/Osceola KY/Floyd
+6,Meridian,ID/Ada NY/Cayuga TX/Bosque MS/Lauderdale CA/Sutter OK/Logan
+6,Middleburg,OH/Logan FL/Clay VA/Loudoun PA/Snyder KY/Casey NC/Vance
+6,Millersburg,KY/Bourbon IN/Elkhart MI/Presque Isle OH/Holmes IA/Iowa PA/Dauphin
+6,Minden,IA/Pottawattamie WV/Fayette NE/Kearney TX/Rusk NV/Douglas LA/Webster
+6,Monterey,IN/Pulaski TN/Putnam CA/Monterey VA/Highland MA/Berkshire LA/Concordia
+6,Morgan,UT/Morgan PA/Allegheny MN/Redwood TX/Bosque GA/Calhoun VT/Orleans
+6,Morrison,IL/Whiteside MO/Gasconade TN/Warren CO/Jefferson OK/Noble IA/Grundy
+6,Morton,MS/Scott IL/Tazewell TX/Cochran WA/Lewis PA/Delaware MN/Renville
+6,Mount Sterling,IL/Brown KY/Montgomery WI/Crawford OH/Madison MO/Osage IA/Van Buren
+6,Mountain View,CA/Santa Clara OK/Kiowa MO/Howell HI/Hawaii AR/Stone WY/Uinta
+6,New Market,MD/Frederick TN/Jefferson VA/Shenandoah IA/Taylor IN/Montgomery AL/Madison
+6,Northfield,VT/Washington NJ/Atlantic MN/Rice OH/Summit MA/Franklin CT/Northwest Hills
+6,Norton,WV/Randolph VT/Essex MA/Bristol KS/Norton TX/Runnels VA/Wise
+6,Norwich,NY/Chenango ND/McHenry KS/Kingman VT/Windsor CT/Southeastern Connecticut OH/Muskingum
+6,Oak Ridge,NJ/Morris TN/Anderson PA/Armstrong LA/Morehouse MO/Cape Girardeau NC/Guilford
+6,Oakwood,VA/Buchanan IL/Vermilion OK/Dewey TX/Leon OH/Paulding GA/Hall
+6,Orange,CT/South Central Connecticut CA/Orange NJ/Essex MA/Franklin VA/Orange TX/Orange
+6,Orleans,NE/Harlan CA/Humboldt IN/Orange MI/Ionia MA/Barnstable VT/Orleans
+6,Pelham,NY/Westchester GA/Mitchell NH/Hillsborough NC/Caswell AL/Shelby TN/Grundy
+6,Pembroke,GA/Bryan KY/Christian NC/Robeson VA/Giles MA/Plymouth ME/Washington
+6,Pittsfield,IL/Pike VT/Rutland PA/Warren ME/Somerset MA/Berkshire NH/Merrimack
+6,Plainville,CT/Capitol MA/Norfolk GA/Gordon IN/Daviess IL/Adams KS/Rooks
+6,Pomona,NY/Rockland NJ/Atlantic CA/Los Angeles MO/Howell IL/Jackson KS/Franklin
+6,Reading,MA/Middlesex PA/Berks VT/Windsor KS/Lyon MN/Nobles MI/Hillsdale
+6,Republic,MO/Greene OH/Seneca MI/Marquette WA/Ferry PA/Fayette KS/Republic
+6,Ripley,WV/Jackson OH/Brown OK/Payne MS/Tippah NY/Chautauqua TN/Lauderdale
+6,Roanoke,AL/Randolph IN/Huntington LA/Jefferson Davis VA/Roanoke TX/Denton IL/Woodford
+6,Rockland,WI/La Crosse ME/Knox ID/Power MA/Plymouth MI/Ontonagon DE/New Castle
+6,Rockwood,MI/Wayne ME/Somerset PA/Somerset IL/Jackson TX/Coleman TN/Roane
+6,Rushville,NE/Sheridan IL/Schuyler MO/Buchanan IN/Rush OH/Fairfield NY/Yates
+6,Saint Joseph,MO/Andrew LA/Tensas MI/Berrien MO/Buchanan MN/Stearns TN/Lawrence IL/Champaign
+6,Saratoga,CA/Santa Clara NC/Wilson AR/Hempstead WY/Carbon IN/Randolph TX/Hardin
+6,Sherman,IL/Sangamon CT/Western Connecticut MS/Pontotoc NY/Chautauqua TX/Grayson ME/Aroostook
+6,Smyrna,TN/Rutherford NY/Chenango DE/Kent SC/York GA/Cobb NC/Carteret
+6,Spring Valley,NY/Rockland MN/Fillmore WI/Pierce OH/Greene IL/Bureau CA/San Diego
+6,Sugar Grove,PA/Warren VA/Smyth OH/Fairfield IL/Kane NC/Watauga WV/Pendleton
+6,Summit,NJ/Union SD/Grant AR/Marion UT/Iron NY/Schoharie MS/Pike
+6,Superior,WI/Douglas AZ/Pinal MT/Mineral IA/Dickinson WY/Sweetwater NE/Nuckolls
+6,Sutton,ND/Griggs WV/Braxton VT/Caledonia MA/Worcester AK/Matanuska-Susitna NE/Clay
+6,Sycamore,GA/Turner IL/DeKalb PA/Greene KS/Montgomery AL/Talladega OH/Wyandot
+6,Taylorsville,IN/Bartholomew KY/Spencer NC/Alexander GA/Bartow MS/Smith CA/Plumas
+6,Temple,OK/Cotton ME/Franklin TX/Bell PA/Berks NH/Hillsborough GA/Carroll
+6,Townsend,GA/McIntosh MA/Middlesex TN/Blount MT/Broadwater DE/New Castle WI/Oconto
+6,Versailles,IN/Ripley IL/Brown KY/Woodford MO/Morgan NY/Cattaraugus OH/Darke
+6,Wakefield,VA/Sussex KS/Clay MA/Middlesex RI/Washington MI/Gogebic NE/Dixon
+6,Waldron,KS/Harper AR/Scott IN/Shelby MO/Platte WA/San Juan MI/Hillsdale
+6,Warwick,MD/Cecil GA/Worth ND/Eddy MA/Franklin NY/Orange RI/Kent
+6,Washburn,ND/McLean TN/Grainger MO/Barry ME/Aroostook WI/Bayfield IL/Woodford
+6,Wellsville,PA/York MO/Montgomery UT/Cache KS/Franklin NY/Allegany OH/Columbiana
+6,West Union,SC/Oconee IA/Fayette OH/Adams MN/Todd IL/Clark WV/Doddridge
+6,Westminster,CO/Adams VT/Windham SC/Oconee CA/Orange MA/Worcester MD/Carroll
+6,Westville,IL/Vermilion NJ/Gloucester OK/Adair SC/Kershaw FL/Holmes IN/LaPorte
+6,Wheeler,IN/Porter IL/Jasper MI/Gratiot TX/Wheeler WI/Dunn OR/Tillamook
+6,Whitewater,CA/Riverside WI/Walworth CO/Mesa MO/Cape Girardeau MT/Phillips KS/Butler
+6,Williamsport,PA/Lycoming KY/Johnson OH/Pickaway IN/Warren MD/Washington TN/Maury
+6,Winslow,AZ/Navajo IN/Pike NJ/Camden IL/Stephenson AR/Washington NE/Dodge
+6,Woodbine,KS/Dickinson NJ/Cape May IA/Harrison GA/Camden KY/Knox MD/Howard
+6,Woodville,OH/Sandusky WI/St. Croix MS/Wilkinson AL/Jackson VA/Rappahannock TX/Tyler
+6,Yale,VA/Sussex IA/Guthrie OK/Payne MI/St. Clair IL/Jasper SD/Beadle
+7,Aberdeen,WA/Grays Harbor NC/Moore OH/Brown MD/Harford SD/Brown MS/Monroe ID/Bingham
+7,Addison,TX/Dallas AL/Winston PA/Somerset MI/Lenawee IL/DuPage ME/Washington NY/Steuben
+7,Alamo,CA/Contra Costa ND/Williams NV/Lincoln TX/Hidalgo TN/Crockett IN/Montgomery GA/Wheeler
+7,Alexander,ND/McKenzie KS/Rush AR/Saline NC/Buncombe NY/Genesee IA/Franklin IL/Morgan
+7,Anderson,SC/Anderson IN/Madison MO/McDonald TX/Grimes AL/Lauderdale CA/Shasta AK/Denali
+7,Ashton,NE/Sherman WV/Mason MD/Montgomery SD/Spink IA/Osceola ID/Fremont IL/Lee
+7,Beverly,WV/Randolph WA/Grant KY/Bell KS/Lincoln MA/Essex NJ/Burlington OH/Morgan
+7,Blanchard,LA/Caddo ND/Traill OK/Grady ID/Bonner MI/Isabella PA/Centre IA/Page
+7,Bloomingdale,GA/Chatham OH/Jefferson NJ/Passaic IL/DuPage NY/Franklin IN/Parke MI/Van Buren
+7,Bluffton,OH/Allen GA/Clay AR/Yell MN/Otter Tail IN/Wells TX/Llano SC/Beaufort
+7,Bremen,KS/Marshall AL/Cullman ME/Lincoln OH/Fairfield IN/Marshall GA/Haralson KY/Muhlenberg
+7,Brewster,OH/Stark MA/Barnstable KS/Thomas NE/Blaine NY/Putnam WA/Okanogan MN/Nobles
+7,Brighton,CO/Adams MI/Livingston MO/Polk TN/Tipton IL/Jersey MA/Suffolk IA/Jefferson
+7,Brunswick,MD/Frederick NE/Antelope OH/Medina GA/Glynn MO/Chariton NC/Columbus ME/Cumberland
+7,Bryant,IA/Clinton AL/Jackson AR/Saline IL/Fulton WI/Langlade SD/Hamlin IN/Jay
+7,Cairo,IL/Alexander OH/Allen NE/Hall MO/Randolph WV/Ritchie GA/Grady NY/Greene
+7,Caldwell,AR/St. Francis NJ/Essex WV/Greenbrier TX/Burleson KS/Sumner ID/Canyon OH/Noble
+7,Carson,IA/Pottawattamie CA/Los Angeles VA/Dinwiddie ND/Grant NM/Taos MS/Jefferson Davis WA/Skamania
+7,Cascade,MT/Cascade MD/Washington CO/El Paso VA/Pittsylvania WI/Sheboygan IA/Jones ID/Valley
+7,Cedarville,AR/Crawford OH/Greene NJ/Cumberland WV/Gilmer IL/Stephenson MI/Mackinac CA/Modoc
+7,Charlotte,VT/Chittenden TN/Dickson TX/Atascosa AR/Independence IA/Clinton MI/Eaton NC/Mecklenburg
+7,Chelsea,VT/Orange MI/Washtenaw IA/Tama NY/Dutchess MA/Suffolk OK/Rogers AL/Shelby
+7,Chesterfield,MA/Hampshire NH/Cheshire VA/Chesterfield IL/Macoupin SC/Chesterfield MO/St. Louis NJ/Burlington
+7,Claremont,IL/Richland CA/Los Angeles SD/Brown VA/Surry NH/Sullivan NC/Catawba MN/Dodge
+7,Clarksburg,OH/Ross MD/Montgomery CA/Yolo PA/Indiana WV/Harrison IN/Decatur MO/Moniteau
+7,Collins,WI/Manitowoc IA/Story MO/St. Clair MS/Covington OH/Huron NY/Erie GA/Tattnall
+7,Collinsville,CT/Capitol IL/Madison TX/Grayson MS/Lauderdale AL/DeKalb OK/Tulsa VA/Henry
+7,Damascus,OH/Mahoning VA/Washington MD/Montgomery OR/Clackamas AR/Faulkner GA/Early PA/Wayne
+7,Danbury,WI/Burnett NE/Red Willow TX/Brazoria CT/Western Connecticut NC/Stokes IA/Woodbury NH/Merrimack
+7,Denver,NY/Delaware CO/Adams CO/Denver IA/Bremer PA/Lancaster IN/Miami CO/Jefferson NC/Lincoln MO/Worth
+7,Derby,IA/Lucas OH/Pickaway KS/Sedgwick CT/Naugatuck Valley IN/Perry NY/Erie VT/Orleans
+7,Empire,LA/Plaquemines OH/Jefferson CA/Stanislaus AL/Walker CO/Clear Creek MI/Leelanau NV/Washoe
+7,Enterprise,UT/Washington KS/Dickinson OR/Wallowa AL/Coffee MS/Clarke WV/Harrison LA/Catahoula
+7,Fayette,UT/Sanpete AL/Fayette IA/Fayette NY/Seneca OH/Fulton MS/Jefferson MO/Howard
+7,Foster,VA/Mathews OR/Linn WV/Boone OK/Stephens KY/Bracken MO/Bates RI/Providence
+7,Fowler,OH/Trumbull IN/Benton IL/Adams CA/Fresno CO/Pueblo MI/Clinton KS/Meade
+7,Gainesville,VA/Prince William GA/Hall NY/Wyoming FL/Alachua AL/Sumter MO/Ozark TX/Cooke
+7,Garland,NE/Seward KS/Bourbon ME/Penobscot NC/Sampson PA/Warren TX/Dallas UT/Box Elder
+7,Germantown,WI/Washington MD/Montgomery TN/Shelby KY/Mason IL/Clinton NY/Columbia OH/Montgomery
+7,Gibson,IA/Keokuk PA/Susquehanna MO/Dunklin GA/Glascock NC/Scotland TN/Gibson LA/Terrebonne
+7,Gladstone,ND/Stark IL/Henderson MI/Delta VA/Buckingham NM/Union OR/Clackamas NJ/Somerset
+7,Graham,WA/Pierce OK/Carter AL/Randolph MO/Nodaway TX/Young NC/Alamance KY/Muhlenberg
+7,Hammond,IL/Piatt OR/Clatsop WI/St. Croix IN/Lake MT/Carter NY/St. Lawrence LA/Tangipahoa
+7,Helena,OH/Sandusky MO/Andrew AR/Phillips MT/Lewis and Clark OK/Alfalfa NY/St. Lawrence AL/Shelby
+7,Indianola,IL/Vermilion NE/Red Willow PA/Allegheny IA/Warren MS/Sunflower OK/Pittsburg WA/Kitsap
+7,Jonesboro,IL/Union GA/Clayton IN/Grant ME/Washington TX/Hamilton AR/Craighead LA/Jackson
+7,Keene,VA/Albemarle ND/McKenzie TX/Johnson NH/Cheshire CA/Kern KY/Jessamine NY/Essex
+7,Lakeside,NE/Sheridan AZ/Navajo MI/Berrien MT/Flathead CA/San Diego OR/Coos CT/Northwest Hills
+7,Lakeville,OH/Holmes IN/St. Joseph NY/Livingston MA/Plymouth MN/Dakota PA/Wayne CT/Northwest Hills
+7,Lawrence,NY/Nassau KS/Douglas MA/Essex PA/Washington MS/Newton NE/Nuckolls MI/Van Buren
+7,Lewisville,NC/Forsyth ID/Jefferson MN/Watonwan IN/Henry AR/Lafayette TX/Denton OH/Monroe
+7,Linwood,NJ/Atlantic NC/Davidson KS/Leavenworth NY/Livingston MA/Worcester MI/Bay NE/Butler
+7,Lisbon,ND/Ransom IA/Cedar ME/Androscoggin NH/Grafton NY/St. Lawrence OH/Columbiana LA/Claiborne
+7,Lodi,CA/San Joaquin OH/Medina NY/Seneca NJ/Bergen WI/Columbia MO/Wayne TX/Cass
+7,Ludlow,CA/San Bernardino PA/McKean VT/Windsor IL/Champaign SD/Harding MO/Livingston MA/Hampden
+7,Mason,WV/Mason OH/Warren MI/Ingham WI/Bayfield IL/Effingham TN/Fayette TX/Mason
+7,Maysville,NC/Onslow GA/Jackson WV/Grant AR/Benton OK/Garvin KY/Mason MO/DeKalb
+7,Medford,MN/Steele WI/Taylor OR/Jackson MA/Middlesex NJ/Burlington OK/Grant NY/Suffolk
+7,Memphis,NE/Saunders NY/Onondaga TN/Shelby TX/Hall MI/St. Clair IN/Clark MO/Scotland
+7,Mendon,NY/Monroe MO/Chariton MI/St. Joseph IL/Adams UT/Cache MA/Worcester OH/Mercer
+7,Montpelier,VT/Washington IN/Blackford OH/Williams ID/Bear Lake IA/Muscatine ND/Stutsman VA/Hanover
+7,Newcastle,TX/Throckmorton OK/McClain ME/Lincoln CA/Placer NE/Dixon WY/Weston UT/Iron
+7,Orient,IL/Franklin OH/Pickaway IA/Adair SD/Hand ME/Aroostook WA/Ferry NY/Suffolk
+7,Osceola,MO/St. Clair PA/Tioga IN/St. Joseph WI/Polk IA/Clarke NE/Polk AR/Mississippi
+7,Paradise,KS/Russell MI/Chippewa CA/Butte PA/Lancaster UT/Cache MT/Sanders TX/Wise
+7,Parker,KS/Linn CO/Douglas PA/Clarion AZ/La Paz SD/Turner WA/Yakima ID/Fremont
+7,Pittsburg,CA/Contra Costa IL/Williamson NH/Coos TX/Camp OK/Pittsburg KS/Crawford MO/Hickory
+7,Portage,IN/Porter PA/Cambria OH/Wood ME/Aroostook WI/Columbia MI/Kalamazoo UT/Box Elder
+7,Prescott,KS/Linn WI/Pierce IA/Adams AR/Nevada WA/Walla Walla MI/Ogemaw AZ/Yavapai
+7,Richfield,NC/Stanly WI/Washington UT/Sevier PA/Snyder OH/Summit KS/Morton ID/Lincoln
+7,Ridgeway,SC/Fairfield OH/Logan IA/Winneshiek WI/Iowa MO/Harrison NC/Warren VA/Henry
+7,Rome,PA/Bradford MS/Sunflower IL/Peoria IN/Perry OH/Ashtabula GA/Floyd NY/Oneida
+7,Rosedale,NY/Queens VA/Russell MS/Bolivar LA/Iberville WV/Braxton MD/Baltimore IN/Parke
+7,Roxbury,NY/Delaware VT/Washington ME/Oxford PA/Franklin MA/Suffolk CT/Northwest Hills KS/McPherson
+7,Russellville,OH/Brown AR/Pope IN/Putnam TN/Hamblen KY/Logan AL/Franklin MO/Moniteau
+7,Rutland,SD/Lake VT/Rutland ND/Sargent IA/Humboldt MA/Worcester IL/LaSalle OH/Meigs
+7,Saint Francis,SD/Todd AR/Clay ME/Aroostook MN/Anoka KS/Cheyenne KY/Marion WI/Milwaukee
+7,Saint Marys,OH/Auglaize KS/Pottawatomie IA/Warren AK/Kusilvak GA/Camden PA/Elk WV/Pleasants
+7,Sanford,NC/Lee ME/York TX/Hutchinson CO/Costilla MI/Midland VA/Accomack FL/Seminole
+7,Scranton,IA/Greene AR/Logan ND/Bowman NC/Hyde SC/Florence KS/Osage PA/Lackawanna
+7,Selma,NC/Johnston VA/Alleghany IN/Delaware CA/Fresno AL/Dallas OR/Josephine IA/Van Buren
+7,Sheffield,AL/Colbert PA/Warren IL/Bureau VT/Caledonia MA/Berkshire TX/Terrell IA/Franklin
+7,Shelbyville,MO/Shelby TX/Shelby KY/Shelby MI/Allegan IL/Shelby TN/Bedford IN/Shelby
+7,Sheldon,ND/Ransom VT/Franklin WI/Taylor IL/Iroquois IA/Sioux SC/Beaufort MO/Vernon
+7,Silver Lake,NH/Carroll IN/Kosciusko MN/McLeod NY/Wyoming KS/Shawnee OR/Lake WI/Kenosha
+7,Somerville,MA/Middlesex OH/Butler AL/Morgan TN/Fayette TX/Burleson IN/Gibson NJ/Somerset
+7,Strasburg,CO/Adams OH/Tuscarawas MO/Cass VA/Shenandoah ND/Emmons IL/Shelby PA/Lancaster
+7,Sullivan,IL/Moultrie OH/Ashland NH/Cheshire WI/Jefferson ME/Hancock IN/Sullivan MO/Franklin
+7,Summerfield,FL/Marion TX/Castro KS/Marshall IL/St. Clair LA/Claiborne NC/Guilford OH/Noble
+7,Syracuse,NE/Otoe NY/Onondaga IN/Kosciusko UT/Davis MO/Morgan OH/Meigs KS/Hamilton
+7,Thompson,OH/Geauga PA/Susquehanna UT/Grand MO/Audrain CT/Northeastern Connecticut IA/Winnebago ND/Grand Forks
+7,Victor,CA/San Joaquin WV/Fayette IA/Iowa NY/Ontario CO/Teller ID/Teton MT/Ravalli
+7,Viola,DE/Kent KS/Sedgwick WI/Richland TN/Warren IL/Mercer AR/Fulton ID/Latah
+7,Walton,NY/Delaware WV/Roane NE/Lancaster OR/Lane KS/Harvey IN/Cass KY/Boone
+7,Watertown,TN/Wilson MN/Carver SD/Codington WI/Jefferson MA/Middlesex NY/Jefferson CT/Naugatuck Valley WI/Dodge
+7,Watson,AR/Desha AL/Jefferson LA/Livingston OK/McCurtain IL/Effingham MO/Atchison MN/Chippewa
+7,Wayland,OH/Portage MI/Allegan IA/Henry MA/Middlesex MO/Clark NY/Steuben KY/Floyd
+7,Wells,ME/York MN/Faribault NV/Elko VT/Rutland MI/Delta NY/Hamilton TX/Cherokee
+7,Williams,AZ/Coconino SC/Colleton CA/Colusa IA/Hamilton IN/Lawrence MN/Lake of the Woods OR/Josephine
+7,Williston,VT/Chittenden ND/Williams SC/Barnwell FL/Levy TN/Fayette OH/Ottawa NC/Carteret
+7,Winona,WV/Fayette MS/Montgomery MO/Shannon TX/Smith KS/Logan MN/Winona OH/Columbiana
+7,Winthrop,MN/Sibley IA/Buchanan ME/Kennebec AR/Little River WA/Okanogan NY/St. Lawrence MA/Suffolk
+7,Woodbury,VT/Washington NJ/Gloucester NY/Nassau TN/Cannon CT/Naugatuck Valley PA/Bedford GA/Meriwether
+7,York,ME/York PA/York ND/Benson NY/Livingston NE/York SC/York AL/Sumter
+8,Adrian,MO/Bates OR/Malheur WV/Upshur MI/Lenawee PA/Armstrong GA/Emanuel TX/Oldham MN/Nobles
+8,Akron,MI/Tuscola IA/Plymouth CO/Washington PA/Lancaster IN/Fulton OH/Summit AL/Hale NY/Erie
+8,Allen,MD/Wicomico TX/Collin OK/Pontotoc SD/Bennett KS/Lyon NE/Dixon KY/Floyd MI/Hillsdale
+8,Alton,NH/Belknap KS/Osborne VA/Halifax IL/Madison NY/Wayne MO/Oregon IA/Sioux UT/Kane
+8,Argyle,GA/Clinch MN/Marshall MI/Sanilac MO/Maries NY/Washington TX/Denton IA/Lee WI/Lafayette
+8,Austin,TX/Hays NV/Lander IN/Scott AR/Lonoke PA/Potter TX/Travis MN/Mower TX/Williamson KY/Barren CO/Delta
+8,Avoca,IA/Pottawattamie WI/Iowa TX/Jones IN/Lawrence MI/St. Clair NE/Cass MN/Murray NY/Steuben
+8,Bellevue,WA/King NE/Sarpy ID/Blaine IA/Jackson OH/Huron MI/Eaton KY/Campbell TX/Clay
+8,Brandon,SD/Minnehaha VT/Rutland WI/Fond du Lac MS/Rankin IA/Buchanan FL/Hillsborough TX/Hill MN/Douglas
+8,Brooklyn,NY/Kings IA/Poweshiek WI/Green CT/Northeastern Connecticut MS/Perry MD/Anne Arundel MI/Jackson IN/Morgan
+8,Byron,CA/Contra Costa MI/Shiawassee NE/Thayer MN/Olmsted GA/Peach IL/Ogle NY/Genesee WY/Big Horn
+8,Campbell,OH/Mahoning CA/Santa Clara MO/Dunklin TX/Hunt AL/Clarke NE/Franklin MN/Wilkin NY/Steuben
+8,Carlisle,PA/Cumberland SC/Chester IA/Warren MA/Middlesex AR/Lonoke IN/Sullivan KY/Nicholas NY/Schoharie
+8,Charleston,ME/Penobscot MS/Tallahatchie AR/Franklin IL/Coles SC/Charleston TN/Bradley MO/Mississippi SC/Berkeley WV/Kanawha
+8,Chatham,IL/Sangamon MI/Alger NJ/Morris MA/Barnstable MS/Washington VA/Pittsylvania NY/Columbia LA/Jackson
+8,Crawford,GA/Oglethorpe CO/Montrose WV/Lewis TX/McLennan NE/Dawes MS/Lowndes TN/Overton OK/Roger Mills
+8,Creston,WV/Calhoun OH/Wayne NC/Ashe NE/Platte CA/San Luis Obispo WA/Lincoln IL/Ogle IA/Union
+8,Cumberland,NC/Cumberland IA/Cass KY/Harlan VA/Cumberland MD/Allegany WI/Barron OH/Guernsey RI/Providence
+8,Dallas,PA/Luzerne TX/Collin SD/Tripp TX/Tarrant OR/Polk NC/Gaston WI/Barron TX/Dallas WV/Marshall GA/Paulding
+8,Delta,IA/Keokuk PA/York AL/Cleburne UT/Millard OH/Fulton LA/Madison MO/Cape Girardeau CO/Delta
+8,Denton,KY/Carter NE/Lancaster KS/Doniphan MT/Fergus NC/Davidson MD/Caroline TX/Denton GA/Jeff Davis
+8,Eureka,CA/Humboldt SD/McPherson MO/St. Louis MT/Lincoln IL/Woodford NV/Eureka UT/Juab KS/Greenwood
+8,Fredonia,AZ/Coconino WI/Ozaukee ND/Logan NY/Chautauqua PA/Mercer KS/Wilson TX/Mason KY/Caldwell
+8,Freedom,ME/Waldo WY/Bonneville NH/Carroll OK/Woods CA/Santa Cruz PA/Beaver IN/Owen NY/Cattaraugus
+8,Friendship,AR/Hot Spring IN/Ripley MD/Anne Arundel TN/Crockett NY/Allegany ME/Knox WI/Adams OH/Scioto
+8,Garfield,WA/Whitman NM/Doña Ana AR/Benton KY/Breckinridge KS/Pawnee NJ/Bergen GA/Emanuel MN/Douglas
+8,Genoa,CO/Lincoln IL/DeKalb WV/Wayne NE/Nance NY/Cayuga WI/Vernon NV/Douglas OH/Ottawa
+8,Gilbert,SC/Lexington AZ/Maricopa IA/Story MN/St. Louis AR/Searcy LA/Franklin WV/Mingo PA/Monroe
+8,Glencoe,CA/Calaveras NM/Lincoln OK/Payne KY/Owen MN/McLeod IL/Cook AR/Fulton OH/Belmont
+8,Glendale,AZ/Maricopa CA/Los Angeles OR/Douglas MA/Berkshire UT/Kane KY/Hardin RI/Providence SC/Spartanburg
+8,Gordon,PA/Schuylkill WI/Douglas WV/Boone GA/Wilkinson KY/Letcher AL/Houston TX/Palo Pinto NE/Cherry
+8,Grant,NE/Perkins AL/Marshall LA/Allen OK/Choctaw CO/Park FL/Brevard MI/Newaygo IA/Montgomery
+8,Greensboro,GA/Greene MD/Caroline PA/Greene FL/Gadsden IN/Henry AL/Hale NC/Guilford VT/Orleans
+8,Harrisville,MS/Simpson PA/Butler NH/Cheshire WV/Ritchie MI/Alcona OH/Harrison NY/Lewis RI/Providence
+8,Hastings,OK/Cotton IA/Mills PA/Cambria NY/Oswego MI/Barry FL/St. Johns MN/Dakota NE/Adams
+8,Hillsdale,OK/Garfield IN/Vermillion IL/Rock Island NJ/Bergen PA/Indiana WY/Laramie NY/Columbia MI/Hillsdale
+8,Humboldt,MN/Kittson NE/Richardson IL/Coles IA/Humboldt KS/Allen TN/Gibson AZ/Yavapai SD/Minnehaha
+8,Huntsville,OH/Logan IL/Schuyler MO/Randolph TX/Walker TN/Scott AR/Madison UT/Weber AL/Madison
+8,Jonesville,IN/Bartholomew TX/Harrison VA/Lee NC/Yadkin SC/Union LA/Catahoula KY/Grant MI/Hillsdale
+8,Junction City,OR/Lane CA/Trinity GA/Talbot AR/Union WI/Portage KS/Geary KY/Boyle OH/Perry
+8,Kent,WA/King OH/Portage NY/Orleans OR/Sherman MN/Wilkin PA/Indiana IL/Stephenson CT/Northwest Hills
+8,Knoxville,TN/Knox IA/Marion IL/Knox PA/Tioga MD/Washington AR/Johnson GA/Crawford AL/Greene
+8,La Grange,AR/Lee NC/Lenoir TX/Fayette IL/Cook TN/Fayette KY/Oldham CA/Tuolumne MO/Lewis
+8,Lamar,MS/Benton SC/Darlington MO/Barton IN/Spencer PA/Clinton AR/Johnson OK/Hughes CO/Prowers
+8,Laurel,NE/Cedar IN/Franklin DE/Sussex MD/Anne Arundel MS/Jones IA/Marshall MD/Prince George's MD/Howard MT/Yellowstone NY/Suffolk
+8,Leesburg,OH/Highland FL/Lake TX/Camp VA/Loudoun NJ/Cumberland IN/Kosciusko GA/Lee AL/Cherokee
+8,Lewiston,CA/Trinity MI/Oscoda NY/Niagara NE/Pawnee ME/Androscoggin UT/Cache ID/Nez Perce MN/Winona
+8,Logan,IL/Franklin NM/Harding WV/Logan IA/Harrison KS/Phillips AL/Cullman UT/Cache OH/Hocking
+8,Mapleton,OR/Lane KS/Bourbon UT/Utah MN/Blue Earth IL/Peoria ND/Cass ME/Aroostook IA/Monona
+8,Marysville,CA/Yuba OH/Union KS/Marshall MT/Lewis and Clark MI/St. Clair PA/Perry IN/Clark WA/Snohomish
+8,Miami,TX/Roberts NM/Colfax AZ/Gila IN/Miami OK/Ottawa MO/Saline WV/Kanawha FL/Miami-Dade
+8,Millville,WV/Jefferson DE/Sussex PA/Columbia NJ/Cumberland UT/Cache MA/Worcester CA/Shasta MN/Wabasha
+8,Montezuma,OH/Mercer NC/Avery IA/Poweshiek GA/Macon KS/Gray NY/Cayuga NM/San Miguel IN/Parke
+8,Morristown,MN/Rice TN/Hamblen NJ/Morris IN/Shelby NY/St. Lawrence AZ/Yavapai OH/Belmont SD/Corson
+8,Moscow,OH/Clermont AR/Jefferson KS/Stevens IA/Muscatine PA/Lackawanna TN/Fayette TX/Polk ID/Latah
+8,Nelson,NH/Cheshire VA/Mecklenburg CA/Butte PA/Tioga WI/Buffalo MO/Saline NE/Nuckolls MN/Douglas
+8,New Castle,VA/Craig KY/Henry PA/Lawrence IN/Henry AL/Jefferson NH/Rockingham CO/Garfield DE/New Castle
+8,Oakdale,CA/Stanislaus NE/Antelope PA/Allegheny LA/Allen IL/Washington CT/Southeastern Connecticut TN/Morgan NY/Suffolk
+8,Odessa,MN/Lac qui Parle MO/Lafayette TX/Ector NE/Buffalo TX/Midland NY/Schuyler FL/Hillsborough WA/Lincoln DE/New Castle
+8,Oneida,PA/Schuylkill KY/Clay IL/Knox AR/Phillips KS/Nemaha TN/Scott WI/Brown NY/Madison
+8,Patterson,CA/Stanislaus AR/Woodruff IA/Madison LA/St. Mary IL/Greene NY/Putnam GA/Pierce MO/Wayne
+8,Peru,ME/Oxford VT/Bennington IA/Madison NY/Clinton IN/Miami IL/LaSalle KS/Chautauqua NE/Nemaha
+8,Piedmont,OK/Canadian SD/Meade KS/Greenwood WV/Mineral MO/Wayne OH/Belmont SC/Greenville AL/Cherokee
+8,Pineville,AR/Izard PA/Bucks WV/Wyoming KY/Bell MO/McDonald LA/Rapides SC/Berkeley NC/Mecklenburg
+8,Prospect,PA/Butler TN/Giles OH/Marion OR/Jackson CT/Naugatuck Valley VA/Prince Edward KY/Oldham NY/Oneida
+8,Riverdale,ND/McLean GA/Clayton NE/Buffalo NJ/Morris IL/Cook MI/Gratiot CA/Fresno MD/Prince George's
+8,Rockford,IA/Floyd MI/Kent TN/Blount AL/Coosa WA/Spokane OH/Mercer IL/Winnebago MN/Hennepin
+8,Rockport,IL/Pike KY/Ohio MA/Essex WA/Whatcom IN/Spencer ME/Knox WV/Wood TX/Aransas
+8,Rockville,UT/Washington NE/Sherman MO/St. Clair MD/Montgomery RI/Washington MN/Stearns VA/Hanover IN/Parke
+8,Roosevelt,OK/Kiowa NY/Nassau UT/Duchesne WA/Klickitat NJ/Monmouth MN/Lake of the Woods AZ/Gila TX/Kimble
+8,Roscoe,NY/Delaware TX/Nolan MO/St. Clair SD/Edmunds MN/Stearns MT/Carbon PA/Washington IL/Winnebago
+8,Saint Paul,VA/Wise MN/Washington KS/Neosho AR/Madison NE/Howard MN/Ramsey OR/Marion IA/Lee MN/Dakota IN/Decatur MN/Hennepin
+8,Salisbury,MD/Wicomico NC/Rowan MA/Essex MO/Chariton VT/Addison PA/Somerset CT/Northwest Hills NH/Merrimack
+8,Scotland,PA/Franklin TX/Archer GA/Telfair AR/Van Buren CT/Northeastern Connecticut IN/Greene SD/Bon Homme MD/St. Mary's
+8,Seymour,MO/Webster WI/Outagamie TN/Sevier CT/Naugatuck Valley TX/Baylor IL/Champaign IN/Jackson IA/Wayne
+8,Sherwood,MD/Talbot AR/Pulaski OH/Defiance TN/Franklin OR/Washington ND/Renville MI/Branch WI/Calumet
+8,Springville,AL/St. Clair PA/Susquehanna IN/Lawrence IA/Linn TN/Henry NY/Erie CA/Tulare UT/Utah
+8,Stanley,ND/Mountrail ID/Custer VA/Page IA/Fayette NY/Ontario NM/Santa Fe NC/Gaston WI/Chippewa
+8,Tipton,KS/Osborne IN/Tipton PA/Blair IA/Cedar MI/Lenawee OK/Tillman CA/Tulare MO/Moniteau
+8,Uniontown,KS/Bourbon AR/Crawford WA/Whitman AL/Perry MO/Perry OH/Summit KY/Union PA/Fayette
+8,Walker,KS/Ellis IA/Linn LA/Livingston MN/Cass KY/Knox WV/Wood MO/Vernon SD/Corson
+8,Wheatland,CA/Yuba IN/Knox WY/Platte OK/Oklahoma PA/Mercer ND/Cass IA/Clinton MO/Hickory
+8,Wilmington,VT/Windham IL/Will CA/Los Angeles MA/Middlesex NY/Essex NC/New Hanover DE/New Castle OH/Clinton
+8,Wilton,WI/Monroe ME/Franklin ND/Burleigh CT/Western Connecticut IA/Cedar AR/Little River NH/Hillsborough CA/Sacramento
+8,Worthington,MA/Hampshire IA/Dubuque WV/Marion IN/Greene KY/Greenup PA/Armstrong MN/Nobles MO/Putnam
+8,Wyoming,IL/Stark PA/Luzerne WV/Wyoming MI/Kent RI/Washington NY/Wyoming IA/Jones MN/Anoka
+9,Alpine,AZ/Apache NY/Schuyler WY/Lincoln CA/San Diego NJ/Bergen TX/Brewster AL/Talladega UT/Utah TN/Overton
+9,Amherst,TX/Lamb MA/Hampshire VA/Amherst NE/Buffalo OH/Lorain CO/Phillips WI/Portage NH/Hillsborough SD/Marshall
+9,Baldwin,WI/St. Croix MI/Lake NY/Nassau ND/Burleigh LA/St. Mary IA/Jackson IL/Randolph MD/Baltimore GA/Banks
+9,Belleville,MI/Wayne WI/Dane NY/Jefferson AR/Yell NJ/Essex IL/St. Clair PA/Mifflin WV/Wood KS/Republic
+9,Bloomington,IL/McLean MD/Garrett CA/San Bernardino ID/Bear Lake NE/Franklin TX/Victoria WI/Grant NY/Ulster IN/Monroe
+9,Bradley,ME/Penobscot FL/Polk IL/Kankakee OK/Grady CA/Monterey AR/Lafayette SD/Clark SC/Greenwood WV/Raleigh
+9,Bridgewater,NY/Oneida CT/Western Connecticut IA/Adair VT/Windsor SD/McCook ME/Aroostook MA/Plymouth VA/Rockingham NJ/Somerset
+9,Brookfield,VT/Orange CT/Western Connecticut MO/Linn OH/Trumbull WI/Waukesha IL/Cook GA/Tift MA/Worcester NY/Madison
+9,Caledonia,OH/Marion MI/Kent MN/Houston ND/Traill MO/Washington NY/Livingston IL/Boone MS/Lowndes WI/Racine
+9,Colfax,IL/McLean WA/Whitman IA/Jasper ND/Richland LA/Grant WI/Dunn CA/Placer IN/Clinton NC/Guilford
+9,Conway,NC/Northampton SC/Horry NH/Carroll MI/Emmet AR/Faulkner MA/Franklin MO/Laclede PA/Beaver WA/Skagit
+9,Cordova,NE/Seward MD/Talbot AL/Walker SC/Orangeburg AK/Chugach TN/Shelby IL/Rock Island NM/Rio Arriba NC/Richmond
+9,Dalton,WI/Green Lake OH/Wayne GA/Whitfield MO/Chariton MN/Otter Tail NY/Livingston PA/Lackawanna NE/Cheyenne MA/Berkshire
+9,Davenport,NY/Delaware VA/Buchanan FL/Osceola OK/Lincoln FL/Polk IA/Scott NE/Thayer ND/Cass CA/Santa Cruz WA/Lincoln
+9,Dawson,GA/Terrell MN/Lac qui Parle IA/Dallas IL/Sangamon NE/Richardson TX/Navarro PA/Fayette AL/DeKalb ND/Kidder
+9,Deerfield,WI/Dane IL/Lake OH/Portage MA/Franklin NH/Rockingham MI/Lenawee KS/Kearny VA/Augusta MO/Vernon
+9,Dixon,KY/Webster MO/Maries CA/Solano IA/Scott WY/Carbon NE/Dixon NM/Rio Arriba MT/Sanders IL/Lee
+9,Douglas,OK/Garfield AK/Juneau MI/Allegan ND/Ward AZ/Cochise MA/Worcester GA/Coffee WY/Converse NE/Otoe
+9,Dublin,IN/Wayne CA/Alameda GA/Laurens NH/Cheshire PA/Bucks TX/Erath NC/Bladen OH/Franklin VA/Pulaski
+9,Dundee,MI/Monroe MS/Tunica KY/Ohio OR/Yamhill FL/Polk IA/Delaware OH/Holmes IL/Kane NY/Yates
+9,Durham,KS/Marion NC/Durham CA/Butte ME/Androscoggin NY/Greene CT/Lower Connecticut River Valley OK/Roger Mills NH/Strafford MO/Lewis
+9,Elizabeth,IL/Jo Daviess NJ/Union PA/Allegheny LA/Allen CO/Elbert IN/Harrison MN/Otter Tail AR/Fulton WV/Wirt
+9,Ellsworth,IL/McLean NE/Sheridan IA/Hamilton WI/Pierce MI/Antrim ME/Hancock PA/Washington KS/Ellsworth MN/Nobles
+9,Essex,MO/Stoddard CA/San Bernardino MT/Flathead MA/Essex IL/Kankakee NY/Essex MD/Baltimore CT/Lower Connecticut River Valley IA/Page
+9,Fairfax,VA/Fairfax VT/Franklin IA/Linn SD/Gregory MN/Renville SC/Allendale MO/Atchison OK/Osage CA/Marin
+9,Fayetteville,PA/Franklin WV/Fayette NY/Onondaga NC/Cumberland OH/Brown TX/Fayette GA/Fayette TN/Lincoln AR/Washington
+9,Frankfort,ME/Waldo IL/Will NY/Herkimer SD/Spink MI/Benzie KS/Marshall IN/Clinton KY/Franklin OH/Ross
+9,Garrison,ND/McLean MO/Christian MN/Crow Wing MT/Powell UT/Millard IA/Benton NY/Putnam TX/Nacogdoches KY/Lewis
+9,Hamburg,MI/Livingston MN/Carver IA/Fremont PA/Berks LA/Avoyelles NY/Erie AR/Ashley NJ/Sussex IL/Calhoun
+9,Hancock,NY/Delaware MN/Stevens IA/Pottawattamie WI/Waushara ME/Hancock MD/Washington VT/Addison MI/Houghton NH/Hillsborough
+9,Harrisburg,IL/Saline NC/Cabarrus AR/Poinsett OR/Linn NE/Banner OH/Franklin MO/Boone SD/Lincoln PA/Dauphin
+9,Highland,OH/Highland KS/Doniphan CA/San Bernardino IN/Lake WI/Iowa IL/Madison MI/Oakland NY/Ulster MD/Howard
+9,Homer,NE/Dakota AK/Kenai Peninsula MI/Calhoun OH/Licking IN/Rush IL/Champaign GA/Banks NY/Cortland LA/Claiborne
+9,Huntington,VT/Chittenden MA/Hampshire UT/Emery IN/Huntington OR/Baker WV/Wayne WV/Cabell TX/Angelina AR/Sebastian NY/Suffolk
+9,Lakewood,WA/Pierce CA/Los Angeles NJ/Ocean PA/Wayne NY/Chautauqua IL/Shelby NM/Eddy OH/Cuyahoga WI/Oconto
+9,Lansing,MI/Eaton WV/Fayette NC/Ashe KS/Leavenworth MN/Mower IL/Cook NY/Tompkins MI/Ingham MI/Clinton OH/Belmont IA/Allamakee
+9,Litchfield,CA/Lassen MN/Meeker NE/Sherman OH/Medina ME/Kennebec IL/Montgomery NH/Hillsborough CT/Northwest Hills MI/Hillsdale
+9,Louisville,OH/Stark MS/Winston IL/Clay KY/Jefferson TN/Blount GA/Jefferson NE/Cass AL/Barbour CO/Boulder
+9,Lowell,OR/Lane IN/Lake MI/Kent MA/Middlesex VT/Orleans AR/Benton NC/Gaston WI/Dodge OH/Washington
+9,Martin,ND/Sheridan MI/Allegan SD/Bennett SC/Allendale PA/Fayette GA/Franklin OH/Ottawa KY/Floyd TN/Weakley
+9,Morris,IL/Grundy MN/Stevens CT/Northwest Hills GA/Quitman IN/Ripley PA/Tioga OK/Okmulgee AL/Jefferson NY/Otsego
+9,Nashville,TN/Davidson IN/Brown KS/Kingman AR/Howard NC/Nash OH/Holmes IL/Washington MI/Barry GA/Berrien
+9,New London,NC/Stanly MO/Ralls IA/Henry OH/Huron MN/Kandiyohi TX/Rusk WI/Waupaca CT/Southeastern Connecticut NH/Merrimack
+9,Palmer,TX/Ellis IA/Pocahontas MI/Marquette IL/Christian KS/Washington NE/Merrick MA/Hampden AK/Matanuska-Susitna TN/Grundy
+9,Pleasant Hill,OR/Lane NC/Northampton IL/Pike TN/Cumberland MO/Cass CA/Contra Costa IA/Polk OH/Miami LA/Sabine
+9,Pulaski,IL/Pulaski TN/Giles PA/Lawrence WI/Shawano GA/Candler NY/Oswego VA/Pulaski MS/Smith IA/Davis
+9,Riverton,UT/Salt Lake IL/Sangamon IA/Fremont WY/Fremont NE/Franklin KS/Cherokee NJ/Burlington CT/Northwest Hills WV/Pendleton
+9,Rogers,TX/Bell KY/Wolfe CT/Northeastern Connecticut ND/Barnes NM/Roosevelt AR/Benton MN/Hennepin OH/Columbiana NE/Colfax
+9,Russell,IA/Lucas IL/Lake MN/Lyon KS/Russell PA/Warren KY/Greenup NY/St. Lawrence MA/Hampden AR/White
+9,Seneca,SD/Faulk SC/Oconee KS/Nemaha PA/Venango WI/Crawford IL/LaSalle NE/Cherry MO/Newton OR/Grant
+9,Shelby,OH/Richland MI/Oceana MT/Toole IN/Lake MS/Bolivar NC/Cleveland IA/Shelby NE/Polk AL/Shelby
+9,Union City,CA/Alameda PA/Erie NJ/Hudson GA/Fulton OK/Canadian MI/Branch TN/Obion IN/Randolph OH/Darke
+9,Unionville,MI/Tuscola CT/Capitol TN/Bedford PA/Chester VA/Orange NY/Orange IA/Appanoose IN/Monroe MO/Putnam
+9,Wallace,KS/Wallace NC/Duplin ID/Shoshone SD/Codington CA/Calaveras MI/Menominee SC/Marlboro WV/Harrison NE/Lincoln
+9,Warsaw,VA/Richmond NC/Duplin MO/Benton MN/Rice IN/Kosciusko NY/Wyoming KY/Gallatin OH/Coshocton IL/Hancock
+9,Waterloo,IN/DeKalb IA/Black Hawk NE/Douglas WI/Jefferson AL/Lauderdale OH/Lawrence NY/Seneca IL/Monroe SC/Laurens
+9,Waterville,PA/Lycoming WA/Douglas OH/Lucas KS/Marshall VT/Lamoille ME/Kennebec MN/Le Sueur IA/Allamakee NY/Oneida
+9,Willard,KY/Carter MO/Greene UT/Box Elder OH/Huron MT/Fallon NY/Seneca NM/Torrance NC/Pender WI/Clark
+9,Williamstown,VT/Orange NJ/Gloucester NY/Oswego OH/Hancock MA/Berkshire MO/Lewis WV/Wood KY/Grant PA/Dauphin
+9,Winfield,MO/Lincoln AL/Fayette IA/Henry TN/Scott PA/Snyder WV/Putnam IL/DuPage KS/Cowley TX/Titus
+10,Adams,KY/Lawrence OR/Umatilla NY/Jefferson ND/Walsh NE/Gage MA/Berkshire MN/Mower TN/Robertson WI/Adams OK/Texas
+10,Afton,NY/Chenango OK/Delaware MN/Washington TX/Dickens TN/Greene VA/Nelson WY/Lincoln WI/Rock MI/Cheboygan IA/Union
+10,Atlanta,GA/Fulton IL/Logan NE/Phelps IN/Hamilton MI/Montmorency LA/Winn MO/Macon GA/Cobb NY/Steuben KS/Cowley TX/Cass GA/DeKalb
+10,Bath,SC/Aiken NC/Beaufort IL/Mason IN/Franklin SD/Brown NH/Grafton ME/Sagadahoc NY/Steuben PA/Northampton MI/Clinton
+10,Beaver,WA/Clallam UT/Beaver OH/Pike OK/Beaver IA/Boone PA/Beaver OR/Tillamook AK/Yukon-Koyukuk KY/Floyd WV/Raleigh
+10,Bloomfield,CT/Capitol MT/Dawson MO/Stoddard NE/Knox NM/San Juan IN/Greene NJ/Essex NY/Ontario KY/Nelson IA/Davis
+10,Carrollton,VA/Isle of Wight OH/Carroll AL/Pickens MI/Saginaw TX/Dallas IL/Greene TX/Denton KY/Carroll MO/Carroll GA/Carroll MS/Carroll
+10,Carthage,TX/Panola MO/Jasper SD/Miner NC/Moore MS/Leake AR/Dallas NY/Jefferson IN/Rush IL/Hancock TN/Smith
+10,Easton,MD/Talbot MN/Faribault IL/Mason KS/Leavenworth MO/Buchanan CT/Greater Bridgeport TX/Rusk ME/Aroostook PA/Northampton WA/Kittitas
+10,Elkton,KY/Todd MD/Cecil TN/Giles SD/Brookings MI/Huron OR/Douglas OH/Columbiana MN/Mower FL/St. Johns VA/Rockingham
+10,Freeport,KS/Harper NY/Nassau TX/Brazoria MN/Stearns OH/Harrison PA/Armstrong IL/Stephenson MI/Barry FL/Walton ME/Cumberland
+10,Fremont,OH/Sandusky IA/Mahaska CA/Alameda NC/Wayne WI/Winnebago IN/Steuben MI/Newaygo NH/Rockingham NE/Dodge MO/Carter
+10,Granville,IA/O'Brien IL/Putnam ND/McHenry OH/Licking NY/Washington VT/Addison TN/Jackson WV/Monongalia PA/Mifflin MA/Hampden
+10,Greenfield,OH/Highland CA/Monterey IL/Greene MO/Dade IA/Adair MA/Franklin IN/Hancock NH/Hillsborough OK/Blaine TN/Weakley
+10,Hebron,ME/Oxford CT/Capitol ND/Morton IN/Porter IL/McHenry OH/Licking KY/Boone NE/Thayer NH/Grafton MD/Wicomico
+10,Holland,IN/Dubois MO/Pemiscot TX/Bell OH/Lucas MI/Allegan KY/Allen MN/Pipestone NY/Erie MA/Hampden IA/Grundy MI/Ottawa
+10,Houston,TX/Fort Bend DE/Kent AL/Winston MS/Chickasaw TX/Harris MN/Houston OH/Shelby PA/Washington AR/Perry AK/Matanuska-Susitna MO/Texas
+10,Lafayette,IN/Tippecanoe TN/Macon OH/Allen CA/Contra Costa AL/Chambers OR/Yamhill MN/Nicollet NJ/Sussex LA/Lafayette CO/Boulder
+10,Livingston,MT/Park CA/Merced KY/Rockcastle IL/Madison NJ/Essex LA/Livingston TX/Polk WI/Grant TN/Overton AL/Sumter
+10,Melrose,LA/Natchitoches NY/Rensselaer FL/Putnam OH/Paulding MA/Middlesex NM/Curry MN/Stearns IA/Monroe MT/Beaverhead WI/Jackson
+10,Midway,TX/Madison UT/Wasatch KY/Woodford TN/Greene FL/Gadsden PA/Washington AR/Baxter AL/Barbour GA/Liberty WV/Raleigh
+10,Montgomery,IL/Kendall PA/Lycoming WV/Fayette TX/Montgomery AL/Montgomery LA/Grant MI/Branch IN/Daviess NY/Orange MN/Le Sueur
+10,Mount Pleasant,AR/Izard NC/Cabarrus OH/Jefferson UT/Sanpete PA/Westmoreland IA/Henry SC/Charleston MI/Isabella TN/Maury TX/Titus
+10,New Haven,CT/South Central Connecticut WV/Mason MI/Macomb OH/Huron VT/Addison NY/Oswego KY/Nelson IL/White MO/Franklin IN/Allen
+10,Newark,IL/Kendall MD/Worcester CA/Alameda OH/Licking NJ/Essex NY/Wayne MO/Knox AR/Independence DE/New Castle TX/Wise
+10,Norwood,GA/Warren MA/Norfolk NC/Stanly PA/Delaware VA/Nelson MO/Wright NJ/Bergen CO/San Miguel LA/East Feliciana NY/St. Lawrence
+10,Preston,MN/Fillmore MO/Hickory WA/King GA/Webster MD/Caroline MS/Kemper OK/Okmulgee IA/Jackson ID/Franklin CT/Southeastern Connecticut
+10,Saint Charles,AR/Arkansas MI/Saginaw IA/Madison ID/Bear Lake VA/Lee SD/Gregory IL/Kane MN/Winona KY/Hopkins MO/St. Charles
+10,Sidney,NY/Delaware AR/Izard MT/Richland IA/Fremont MI/Montcalm IL/Champaign NE/Cheyenne OH/Shelby TX/Comanche KY/Pike
+10,Smithville,OH/Wayne MO/Clay TN/DeKalb OK/Le Flore WV/Ritchie MS/Monroe AR/Lawrence TX/Bastrop GA/Lee IN/Monroe
+10,Sparta,WI/Monroe OH/Morrow MO/Christian NC/Alleghany MI/Kent GA/Hancock TN/White KY/Gallatin IL/Randolph NJ/Sussex
+10,Stanton,AL/Chilton CA/Orange TX/Martin MI/Montcalm NE/Stanton TN/Haywood IA/Montgomery KY/Powell MO/Franklin ND/Mercer
+10,Stratford,NY/Fulton WA/Grant NJ/Camden IA/Hamilton SD/Brown CT/Greater Bridgeport TX/Sherman WI/Marathon OK/Garvin CA/Kings
+10,Sumner,ME/Oxford WA/Pierce GA/Worth MS/Tallahatchie IA/Bremer MO/Chariton NE/Dawson IL/Lawrence MI/Gratiot TX/Lamar
+10,Taylor,MI/Wayne ND/Stark AZ/Navajo MS/Lafayette TX/Williamson AR/Lafayette PA/Lackawanna NE/Loup MO/Marion WI/Jackson
+10,Vienna,VA/Fairfax MO/Maries GA/Dooly OH/Trumbull IL/Johnson ME/Kennebec SD/Clark MD/Dorchester NJ/Warren WV/Wood
+10,Waterford,ME/Oxford PA/Erie CA/Stanislaus NY/Saratoga VA/Loudoun MS/Marshall WI/Racine MI/Oakland CT/Southeastern Connecticut OH/Washington
+10,Wayne,MI/Wayne WV/Wayne NJ/Passaic NE/Wayne ME/Kennebec PA/Chester OH/Wood OK/McClain IL/DuPage NY/Steuben
+10,Westport,WA/Grays Harbor TN/Carroll CT/Western Connecticut SD/Brown MA/Bristol CA/Mendocino NY/Essex PA/Clinton KY/Oldham IN/Decatur
+10,Wilson,OK/Carter WI/St. Croix NC/Wilson NY/Niagara WY/Teton TX/Lynn MI/Menominee LA/East Feliciana KS/Ellsworth AR/Mississippi
+10,Woodland,NC/Northampton AL/Randolph MS/Chickasaw GA/Talbot CA/Yolo IL/Iroquois WA/Cowlitz MI/Barry WI/Dodge PA/Clearfield
+11,Alma,NE/Harlan MO/Lafayette AR/Crawford IL/Marion KS/Wabaunsee GA/Bacon CO/Park WI/Buffalo MI/Gratiot WV/Tyler NY/Allegany
+11,Bedford,NY/Westchester MA/Middlesex PA/Bedford IN/Lawrence TX/Tarrant WY/Lincoln IA/Taylor NH/Hillsborough VA/Bedford KY/Trimble OH/Cuyahoga
+11,Berlin,CT/Capitol NY/Rensselaer MD/Worcester NJ/Camden ND/LaMoure NH/Coos WI/Waushara OH/Holmes PA/Somerset MA/Worcester GA/Colquitt
+11,Bradford,IL/Stark VT/Orange ME/Penobscot PA/McKean RI/Washington NY/Schuyler IA/Franklin TN/Gibson AR/Jackson OH/Darke NH/Merrimack
+11,Clifton,VA/Fairfax TN/Wayne AZ/Greenlee IL/Iroquois NJ/Passaic KS/Washington CO/Mesa TX/Bosque ID/Franklin OH/Clark SC/Spartanburg
+11,Covington,MI/Baraga LA/St. Tammany OK/Garfield KY/Kenton TN/Tipton PA/Tioga VA/Alleghany OH/Miami TX/Hill IN/Fountain GA/Newton
+11,Dexter,OR/Lane GA/Laurens MO/Stoddard IA/Madison NM/Chaves ME/Penobscot MI/Washtenaw NY/Jefferson KY/Calloway MN/Mower KS/Cowley
+11,Eden,GA/Effingham WI/Fond du Lac ID/Jerome VT/Lamoille AZ/Graham NC/Rockingham NY/Erie TX/Concho UT/Weber SD/Marshall MD/Wicomico
+11,Garden City,MI/Wayne KS/Finney ID/Ada MO/Cass UT/Rich MN/Blue Earth NY/Nassau TX/Glasscock AL/Cullman SD/Clark IA/Hardin
+11,Geneva,MN/Freeborn ID/Bear Lake NE/Fillmore GA/Talbot IN/Adams NY/Ontario IL/Kane AL/Geneva OH/Ashtabula IA/Franklin FL/Seminole
+11,Goshen,MA/Hampshire OH/Clermont IN/Elkhart UT/Utah VA/Rockbridge AL/Pike NH/Sullivan NY/Orange CA/Tulare KY/Oldham CT/Northwest Hills
+11,Grafton,VT/Windham NY/Rensselaer WV/Taylor IA/Worth NE/Fillmore WI/Ozaukee OH/Lorain IL/Jersey NH/Grafton MA/Worcester ND/Walsh
+11,Independence,CA/Inyo KY/Kenton WV/Preston MO/Jackson KS/Montgomery LA/Tangipahoa VA/Grayson IA/Buchanan WI/Trempealeau OH/Cuyahoga OR/Polk
+11,Lake City,PA/Erie AR/Craighead CO/Hinsdale KS/Barber FL/Columbia SC/Florence CA/Modoc MI/Missaukee IA/Calhoun SD/Marshall MN/Wabasha
+11,Marietta,MN/Lac qui Parle NY/Onondaga NC/Robeson IL/Fulton PA/Lancaster TX/Cass OK/Love GA/Cobb SC/Greenville MS/Itawamba OH/Washington
+11,Plainfield,VT/Washington MA/Hampshire PA/Cumberland IN/Hendricks IL/Will NJ/Union WI/Waushara CT/Northeastern Connecticut IA/Bremer NH/Sullivan OH/Coshocton
+11,Quincy,PA/Franklin OH/Logan WA/Grant MA/Norfolk FL/Gadsden MI/Branch IL/Adams CA/Plumas IN/Owen KY/Lewis MO/Hickory
+11,Sharon,KS/Barber MA/Norfolk ND/Steele WI/Walworth PA/Mercer VT/Windsor SC/York GA/Taliaferro OK/Woodward CT/Northwest Hills TN/Weakley
+11,Sheridan,IN/Hamilton OR/Yamhill AR/Grant MT/Madison MI/Montcalm NY/Chautauqua CA/Placer IL/LaSalle TX/Colorado WY/Sheridan MO/Worth
+11,Smithfield,OH/Jefferson VA/Isle of Wight KY/Henry NE/Gosper NC/Johnston IL/Fulton ME/Somerset UT/Cache WV/Wetzel PA/Fayette RI/Providence
+11,Somerset,WI/St. Croix CO/Gunnison MA/Bristol CA/El Dorado IN/Wabash TX/Atascosa VA/Orange PA/Somerset KY/Pulaski OH/Perry NJ/Somerset
+11,Stockton,MD/Worcester IL/Jo Daviess CA/San Joaquin MO/Cedar IA/Scott NJ/Hunterdon NY/Chautauqua UT/Tooele GA/Lanier AL/Baldwin KS/Rooks
+11,Thornton,TX/Limestone CO/Adams CA/San Joaquin WV/Taylor AR/Calhoun WA/Whitman PA/Delaware KY/Letcher IL/Cook NH/Grafton IA/Cerro Gordo
+11,Verona,IL/Grundy WI/Dane ND/LaMoure PA/Allegheny MO/Barry OH/Preble KY/Boone NJ/Essex MS/Lee VA/Augusta NY/Oneida
+11,Wellington,MO/Lafayette KS/Sumner KY/Menifee OH/Lorain AL/Calhoun IL/Iroquois UT/Carbon CO/Larimer FL/Palm Beach NV/Lyon TX/Collingsworth
+11,West Point,MS/Clay CA/Calaveras GA/Harris AR/White TX/Fayette KY/Bullitt VA/King William NY/Orange IL/Hancock IA/Lee NE/Cuming
+11,Westfield,NJ/Union IN/Hamilton IA/Plymouth NC/Stokes PA/Tioga NY/Chautauqua ME/Aroostook IL/Clark MA/Hampden WI/Marquette VT/Orleans
+11,Woodstock,IL/McHenry VA/Shenandoah CT/Northeastern Connecticut AL/Bibb VT/Windsor MN/Pipestone NH/Grafton MD/Baltimore NY/Ulster OH/Champaign GA/Cherokee
+12,Alexandria,VA/Fairfax TN/DeKalb IN/Madison OH/Licking MO/Clark PA/Huntingdon AL/Calhoun NE/Thayer LA/Rapides VA/Alexandria SD/Hanson KY/Campbell MN/Douglas
+12,Andover,ME/Oxford CT/Capitol IA/Clinton SD/Day MA/Essex MN/Anoka KS/Butler IL/Henry NJ/Sussex NY/Allegany OH/Ashtabula NH/Merrimack
+12,Avon,CT/Capitol IN/Hendricks MA/Norfolk MT/Powell CO/Eagle OH/Lorain MN/Stearns MS/Washington IL/Fulton SD/Bon Homme NY/Livingston NC/Dare
+12,Belmont,NH/Belknap CA/San Mateo VT/Rutland WI/Lafayette MI/Kent MA/Middlesex WV/Pleasants NC/Gaston NY/Allegany OH/Belmont MS/Tishomingo LA/Sabine
+12,Benton,MO/Scott IL/Franklin AR/Saline KY/Marshall PA/Columbia TN/Polk IA/Ringgold CA/Mono WI/Lafayette LA/Bossier MS/Yazoo KS/Butler
+12,Bethel,ME/Oxford NC/Pitt OH/Clermont MO/Shelby NY/Sullivan CT/Western Connecticut DE/Sussex PA/Berks OK/McCurtain VT/Windsor AK/Bethel MN/Anoka
+12,Brownsville,IN/Union TX/Cameron CA/Yuba OR/Linn OH/Licking MN/Houston TN/Haywood MD/Washington VT/Windsor KY/Edmonson PA/Washington WI/Dodge
+12,Concord,NC/Cabarrus PA/Franklin IL/Morgan CA/Contra Costa VT/Essex MA/Middlesex GA/Pike MI/Jackson NE/Dixon VA/Campbell AR/Cleburne NH/Merrimack
+12,Decatur,IL/Macon NE/Burt OH/Brown TX/Wise AL/Morgan IN/Adams AR/Benton IA/Decatur MS/Newton TN/Meigs GA/DeKalb MI/Van Buren
+12,Elgin,AZ/Santa Cruz NE/Antelope TN/Scott SC/Kershaw ND/Grant IA/Fayette IL/Cook TX/Bastrop OR/Union OH/Van Wert IL/Kane MN/Olmsted OK/Comanche
+12,Harrison,NY/Westchester NJ/Hudson NE/Sioux TN/Hamilton OH/Hamilton MT/Madison MI/Clare GA/Washington ID/Kootenai SD/Douglas AR/Boone ME/Cumberland
+12,Jacksonville,FL/Duval VT/Windham GA/Telfair NC/Onslow AR/Pulaski MO/Randolph OR/Jackson AL/Calhoun NY/Tompkins TX/Cherokee OH/Athens IL/Morgan
+12,Jasper,OH/Pike AL/Walker IN/Dubois TN/Marion FL/Hamilton MO/Jasper AR/Newton GA/Pickens MN/Rock MI/Lenawee NY/Steuben TX/Jasper
+12,Linden,IA/Dallas CA/San Joaquin PA/Lycoming NJ/Union NC/Cumberland WI/Iowa AL/Marengo MI/Genesee IN/Montgomery TN/Perry VA/Warren TX/Cass
+12,Magnolia,NC/Duplin DE/Kent OH/Carroll NJ/Camden TX/Montgomery IL/Putnam KY/Hart AL/Marengo IA/Harrison AR/Columbia MN/Rock MS/Pike
+12,Mansfield,IL/Piatt OH/Richland SD/Brown MA/Bristol TX/Tarrant PA/Tioga TN/Henry MO/Wright LA/De Soto WA/Douglas AR/Sebastian GA/Newton
+12,Midland,NC/Cabarrus TX/Martin OH/Clinton SD/Haakon TX/Midland IN/Greene VA/Fauquier OR/Klamath PA/Beaver MI/Midland GA/Muscogee AR/Sebastian MD/Allegany
+12,Milan,NM/Cibola PA/Bradford GA/Telfair MO/Sullivan NH/Coos IN/Ripley OH/Erie IL/Rock Island MN/Chippewa TN/Gibson MI/Monroe KS/Sumner
+12,Palmyra,PA/Lebanon WI/Jefferson ME/Somerset NY/Wayne IN/Harrison IL/Macoupin VA/Fluvanna MI/Lenawee TN/Montgomery NJ/Burlington MO/Marion NE/Otoe
+12,Paris,ME/Oxford KY/Bourbon OH/Stark ID/Bear Lake MS/Lafayette AR/Logan MO/Monroe TN/Henry VA/Clarke MI/Newaygo IL/Edgar TX/Lamar
+12,Utica,NE/Seward KY/Daviess PA/Venango OH/Licking MI/Macomb MS/Hinds KS/Ness IL/LaSalle SD/Yankton MO/Livingston MN/Winona NY/Oneida
+12,Vernon,VT/Windham TX/Wilbarger MI/Shiawassee IL/Marion AZ/Apache CO/Yuma IN/Jennings UT/Tooele NJ/Sussex FL/Washington AL/Lamar NY/Oneida
+12,Williamsburg,IN/Wayne MA/Hampshire OH/Clermont MO/Callaway NM/Sierra KY/Whitley PA/Blair VA/James City IA/Iowa WV/Greenbrier KS/Franklin MI/Grand Traverse
+13,Albion,IN/Noble PA/Erie NE/Boone ID/Cassia WA/Whitman NY/Orleans CA/Mendocino IL/Edwards ME/Kennebec OK/Pushmataha IA/Marshall MI/Calhoun RI/Providence
+13,Athens,AL/Limestone PA/Bradford TN/McMinn TX/Henderson GA/Jackson ME/Somerset WI/Marathon GA/Clarke IL/Menard NY/Greene MI/Calhoun WV/Mercer OH/Athens LA/Claiborne
+13,Augusta,WV/Hampshire GA/Columbia OH/Carroll AR/Woodruff GA/Richmond WI/Eau Claire MT/Lewis and Clark KS/Butler ME/Kennebec KY/Bracken IL/Hancock MI/Kalamazoo NJ/Sussex MO/St. Charles
+13,Butler,IN/DeKalb PA/Butler OH/Richland OK/Custer AL/Choctaw KY/Pendleton NJ/Morris GA/Taylor WI/Waukesha IL/Montgomery TN/Johnson MO/Bates MD/Baltimore
+13,Cambridge,WI/Dane ID/Washington IA/Story NY/Washington MA/Middlesex ME/Somerset VT/Lamoille MN/Isanti IL/Henry MD/Dorchester NE/Frontier KS/Cowley OH/Guernsey
+13,Cameron,AZ/Coconino TX/Milam OK/Le Flore MT/Madison SC/Calhoun IL/Warren WI/Barron LA/Cameron OH/Monroe NY/Steuben MO/DeKalb WV/Marshall NC/Harnett
+13,Clarksville,FL/Calhoun VA/Mecklenburg IA/Butler MI/Ionia TX/Red River NY/Albany PA/Greene IN/Clark AR/Johnson MO/Pike TN/Montgomery MD/Howard OH/Clinton
+13,Hope,AK/Kenai Peninsula KS/Dickinson IN/Bartholomew MN/Steele NM/Chaves ND/Steele KY/Bath AR/Hempstead ID/Bonner NJ/Warren MI/Midland ME/Knox RI/Providence
+13,Lyons,SD/Minnehaha NE/Burt GA/Toombs MI/Ionia IN/Greene IL/Cook NY/Wayne OH/Fulton KS/Rice TX/Burleson OR/Marion CO/Boulder NJ/Somerset
+13,Perry,IA/Dallas IL/Pike OH/Lake MI/Shiawassee MO/Ralls LA/Vermilion NY/Wyoming FL/Taylor KS/Jefferson OK/Noble AR/Perry ME/Washington GA/Houston
+13,Portland,TX/San Patricio MO/Callaway TN/Sumner MI/Ionia ND/Steele OR/Multnomah OR/Clackamas OR/Washington NY/Chautauqua AR/Chicot IN/Jay CT/Lower Connecticut River Valley PA/Northampton OH/Meigs ME/Cumberland
+13,Raymond,NE/Lancaster IA/Black Hawk MT/Sheridan OH/Union CA/Madera MS/Hinds MN/Kandiyohi IL/Montgomery KS/Rice NH/Rockingham SD/Clark WA/Pacific ME/Cumberland
+13,Richland,GA/Stewart NJ/Atlantic IA/Keokuk OR/Baker MT/Valley MS/Rankin PA/Berks TX/Navarro WA/Benton IN/Spencer NY/Oswego MO/Pulaski MI/Kalamazoo
+13,Rochester,NY/Monroe TX/Haskell WA/Thurston IL/Sangamon IN/Fulton VT/Windsor MA/Plymouth PA/Beaver MI/Oakland KY/Butler MN/Olmsted NH/Strafford WI/Racine
+13,Webster,IN/Wayne WI/Burnett NY/Monroe IA/Keokuk TX/Harris PA/Westmoreland MN/Rice FL/Sumter ND/Ramsey KY/Breckinridge MA/Worcester NC/Jackson SD/Day
+13,Winchester,VA/Winchester AR/Drew NH/Cheshire CA/Riverside IL/Scott TN/Franklin MA/Middlesex KY/Clark OR/Douglas OH/Adams KS/Jefferson ID/Nez Perce IN/Randolph VA/Frederick
+14,Arcadia,CA/Los Angeles MI/Manistee IN/Hamilton FL/DeSoto IA/Carroll MO/Iron KS/Crawford WI/Trempealeau OH/Hancock PA/Indiana NE/Valley LA/Bienville OK/Oklahoma SC/Spartanburg
+14,Bridgeport,AL/Jackson OR/Baker NJ/Gloucester MI/Saginaw WA/Douglas CT/Greater Bridgeport PA/Montgomery IL/Lawrence NE/Morrill CA/Mono NY/Madison OH/Belmont WV/Harrison TX/Wise
+14,Bristol,IL/Kendall IN/Elkhart PA/Bucks FL/Liberty VA/Washington CT/Naugatuck Valley TN/Sullivan VA/Bristol ME/Lincoln RI/Bristol NH/Grafton VT/Addison GA/Appling SD/Day WI/Kenosha
+14,Greenwood,ME/Oxford LA/Caddo VA/Albemarle MS/Leflore MO/Jackson DE/Sussex CA/El Dorado IN/Johnson NE/Cass FL/Jackson NY/Steuben SC/Greenwood AR/Sebastian WI/Clark
+14,Hanover,ME/Oxford IL/Jo Daviess MN/Wright PA/York WV/Wyoming MI/Jackson KS/Washington MD/Anne Arundel NH/Grafton MA/Plymouth IN/Jefferson VA/Hanover NM/Grant CT/Southeastern Connecticut
+14,Hartford,CT/Capitol SD/Minnehaha WV/Mason KY/Ohio OH/Trumbull NY/Washington IA/Warren WI/Washington IL/Madison KS/Lyon AL/Geneva AR/Sebastian TN/Cocke MI/Van Buren
+14,Middletown,MD/Frederick IL/Logan RI/Newport VA/Frederick OH/Butler IN/Henry NJ/Monmouth CA/Lake IA/Des Moines NY/Orange MO/Pike CT/Lower Connecticut River Valley DE/New Castle PA/Dauphin
+14,Montrose,NY/Westchester WV/Randolph GA/Laurens MN/Wright PA/Susquehanna MO/Henry CO/Montrose CA/Los Angeles MI/Genesee IL/Jasper SD/McCook AR/Ashley IA/Lee AL/Baldwin
+14,Newton,WV/Roane WI/Manitowoc KS/Harvey GA/Baker IA/Jasper MA/Middlesex IL/Jasper UT/Cache AL/Houston TX/Newton NH/Rockingham NC/Catawba NJ/Sussex MS/Newton
+14,Petersburg,OH/Mahoning NY/Rensselaer NE/Boone IN/Pike TX/Hale ND/Nelson VA/Prince George PA/Huntingdon KY/Boone VA/Dinwiddie WV/Grant AK/Petersburg IL/Menard TN/Lincoln MI/Monroe
+14,Riverside,AL/St. Clair CA/Riverside CT/Western Connecticut MI/Berrien TX/Walker OR/Malheur PA/Northumberland IL/Cook WA/Okanogan MO/Platte IA/Washington NJ/Burlington UT/Box Elder RI/Providence
+14,Spencer,WV/Roane NE/Boyd NY/Tioga TN/Van Buren ID/Clark NC/Rowan OH/Medina OK/Oklahoma IA/Clay SD/McCook MA/Worcester IN/Owen VA/Henry WI/Clark
+14,Union,WA/Mason WV/Monroe NJ/Union IL/McHenry MI/Cass KY/Boone NE/Cass SC/Union OR/Union MS/Neshoba MO/Franklin ME/Knox NH/Strafford IA/Hardin
+14,Weston,PA/Luzerne NE/Saunders OR/Umatilla CT/Western Connecticut WY/Campbell GA/Webster CO/Las Animas MA/Middlesex WV/Lewis OH/Wood VT/Windsor ID/Franklin MI/Lenawee MO/Platte
+15,Albany,CA/Alameda OR/Linn IL/Whiteside WI/Green MO/Gentry NY/Albany KY/Clinton MN/Stearns IN/Delaware LA/Livingston TX/Shackelford OK/Bryan GA/Dougherty OH/Meigs VT/Orleans
+15,Centerville,IN/Wayne IA/Appanoose KS/Linn TX/Leon LA/St. Mary MA/Barnstable TN/Hickman AR/Yell MO/Reynolds SD/Turner UT/Davis WA/Klickitat PA/Crawford NY/Allegany GA/Houston
+15,Fulton,KY/Fulton OH/Morrow IL/Whiteside MO/Callaway KS/Bourbon AR/Hempstead AL/Clarke IN/Fulton NY/Oswego SD/Hanson MI/Kalamazoo MD/Howard MS/Itawamba TX/Aransas CA/Sonoma
+15,Glenwood,MN/Pope AR/Pike IA/Mills WA/Klickitat UT/Sevier IN/Rush IL/Cook AL/Pike NY/Erie NJ/Sussex MO/Schuyler MD/Howard WV/Cabell GA/Wheeler NM/Catron
+15,Hampton,VA/Hampton AR/Calhoun GA/Henry FL/Bradford TN/Carter NY/Washington SC/Hampton CT/Northeastern Connecticut NJ/Hunterdon IL/Rock Island NH/Rockingham KY/Livingston NE/Hamilton MN/Dakota IA/Franklin
+15,Henderson,IL/Knox CO/Adams MN/Sibley MI/Shiawassee WV/Mason MD/Caroline IA/Mills NY/Jefferson TX/Rusk NE/York NV/Clark NC/Vance TN/Chester AR/Baxter KY/Henderson
+15,Lancaster,VA/Lancaster MN/Kittson SC/Lancaster KY/Garrard NH/Coos CA/Los Angeles PA/Lancaster OH/Fairfield KS/Atchison MA/Worcester NY/Erie WI/Grant MO/Schuyler TX/Dallas TN/Smith
+15,Liberty,IN/Union ME/Waldo NY/Sullivan SC/Pickens TN/DeKalb MO/Clay KS/Montgomery PA/Tioga MS/Amite WV/Putnam IL/Adams KY/Casey NE/Gage TX/Liberty NC/Randolph
+15,Marshall,WI/Dane OK/Garfield MN/Lyon TX/Harrison AR/Searcy AK/Kusilvak VA/Fauquier NC/Madison ND/Dunn MO/Saline IL/Clark IN/Parke MI/Calhoun CA/Marin WA/Spokane
+15,Monticello,MS/Lawrence IL/Piatt AR/Drew NY/Sullivan MN/Wright GA/Jasper WI/Green NM/Sierra UT/San Juan ME/Aroostook KY/Wayne IN/White IA/Jones FL/Jefferson MO/Lewis
+15,Mount Vernon,NY/Westchester OH/Knox KY/Rockcastle IL/Jefferson MO/Lawrence IA/Linn AL/Mobile GA/Montgomery ME/Kennebec IN/Posey AR/Faulkner TX/Franklin SD/Davison OR/Grant WA/Skagit
+15,Richmond,VT/Chittenden VA/Richmond OH/Jefferson IN/Wayne TX/Fort Bend CA/Contra Costa IL/McHenry VA/Henrico MN/Stearns MI/Macomb VA/Chesterfield KS/Franklin UT/Cache MO/Ray MA/Berkshire ME/Sagadahoc KY/Madison
+15,Sterling,MI/Arenac NE/Johnson IL/Whiteside UT/Sanpete OH/Wayne AK/Kenai Peninsula ND/Burleigh CT/Northeastern Connecticut VA/Loudoun CO/Logan NY/Cayuga MA/Worcester OK/Comanche KS/Rice PA/Wayne
+15,Warren,VT/Washington IL/Jo Daviess OR/Columbia IN/Huntington OH/Trumbull PA/Warren MI/Macomb RI/Bristol NH/Grafton MA/Worcester MN/Polk AR/Bradley ME/Knox TX/Tyler NJ/Somerset
+16,Aurora,IL/Will SD/Brookings MO/Barry CO/Arapahoe WV/Preston MN/St. Louis UT/Sevier ME/Hancock NE/Hamilton IL/Kane IL/DuPage CO/Adams NC/Beaufort OH/Portage KS/Cloud IN/Dearborn IA/Buchanan NY/Cayuga OR/Marion
+16,Camden,NC/Camden IN/Carroll MS/Madison IL/Schuyler NJ/Camden AL/Wilcox AR/Ouachita OH/Preble MI/Hillsdale WV/Lewis SC/Kershaw TN/Benton MO/Ray ME/Knox TX/Polk NY/Oneida
+16,Danville,AL/Lawrence OH/Knox IN/Hendricks WV/Boone IL/Vermilion KS/Harper CA/Contra Costa GA/Wilkinson AR/Yell IA/Des Moines VA/Pittsylvania VT/Caledonia NH/Rockingham KY/Boyle WA/Ferry PA/Montour
+16,Dover,OH/Tuscarawas DE/Kent MO/Lafayette NC/Craven PA/York MA/Norfolk TN/Stewart OK/Kingfisher ID/Bonner NJ/Morris IL/Bureau FL/Hillsborough MN/Olmsted KY/Mason AR/Pope NH/Strafford
+16,Fairview,PA/Erie UT/Sanpete MT/Richland TN/Williamson MI/Oscoda NC/Buncombe OR/Multnomah IL/Fulton OK/Major SD/Lincoln WY/Lincoln NJ/Bergen WV/Monongalia KS/Brown MO/Newton OH/Guernsey
+16,Oakland,CA/Alameda IA/Pottawattamie FL/Orange MD/Garrett KY/Warren NE/Burt AR/Marion TX/Colorado OR/Douglas ME/Kennebec IL/Coles NJ/Bergen TN/Fayette MI/Oakland MS/Yalobusha RI/Providence
+16,Randolph,VT/Orange VA/Charlotte MN/Dakota MA/Norfolk NH/Coos KS/Riley TX/Fannin MS/Pontotoc IA/Fremont NJ/Morris AL/Bibb UT/Rich ME/Kennebec WI/Columbia NY/Cattaraugus NE/Cedar
+16,Trenton,MI/Wayne KY/Todd AL/Jackson TX/Fannin FL/Gilchrist ND/Williams OH/Butler GA/Dade UT/Cache NJ/Mercer MO/Grundy IL/Clinton TN/Gibson SC/Edgefield NE/Hitchcock NC/Jones
+17,Buffalo,OK/Harper MN/Wright IL/Sangamon MT/Judith Basin TX/Leon IA/Scott KY/Larue ND/Cass WV/Putnam SC/Union SD/Harding NY/Erie IN/White KS/Wilson WY/Johnson MO/Dallas OH/Guernsey
+17,Canton,ME/Oxford CT/Capitol OH/Stark MI/Wayne PA/Bradford MS/Madison MN/Fillmore MA/Norfolk KS/McPherson OK/Dewey IL/Fulton SD/Lincoln NC/Haywood TX/Van Zandt NY/St. Lawrence GA/Cherokee MO/Lewis
+17,Columbia,SC/Lexington CT/Capitol AL/Henry IA/Marion SD/Brown KY/Adair MO/Boone PA/Lancaster IL/Monroe LA/Caldwell NC/Tyrrell TN/Maury NJ/Warren MD/Howard SC/Richland VA/Goochland CA/Tuolumne MS/Marion
+17,Columbus,KY/Hickman IN/Bartholomew ND/Burke NM/Luna OH/Franklin NE/Platte PA/Warren MI/St. Clair AR/Howard NC/Polk OH/Delaware MT/Stillwater WI/Columbia KS/Cherokee TX/Colorado MS/Lowndes NJ/Burlington GA/Muscogee
+17,Farmington,MO/St. Francois CT/Capitol CA/Stanislaus ME/Franklin WA/Whitman WV/Marion NM/San Juan IL/Fulton UT/Davis NY/Ontario KY/Graves PA/Fayette MI/Oakland IA/Lee MN/Dakota AR/Washington NH/Strafford
+17,Florence,CO/Fremont OR/Lane MA/Hampshire WI/Florence SD/Codington VT/Rutland AZ/Pinal AL/Lauderdale MS/Rankin SC/Florence KY/Boone MO/Morgan IN/Switzerland KS/Marion NJ/Burlington TX/Williamson MT/Ravalli
+17,Hillsboro,AL/Lawrence TN/Coffee OH/Highland IA/Lee NM/Sierra MD/Caroline KY/Fleming ND/Traill KS/Marion OR/Washington GA/Jones WI/Vernon IL/Montgomery MO/Jefferson IN/Fountain WV/Pocahontas TX/Hill
+17,Hudson,IL/McLean IA/Black Hawk WI/St. Croix CO/Weld ME/Penobscot NC/Caldwell MA/Middlesex KS/Stafford WY/Fremont OH/Summit IN/Steuben SD/Lincoln KY/Breckinridge NH/Hillsborough MI/Lenawee NY/Columbia FL/Pasco
+17,Jamestown,TN/Fentress RI/Newport NM/McKinley KY/Russell OH/Greene NY/Chautauqua VA/James City KS/Cloud ND/Stutsman LA/Bienville PA/Crawford SC/Berkeley CA/Tuolumne IN/Boone NC/Guilford MO/Moniteau CO/Boulder
+17,Jefferson,MD/Frederick NC/Ashe SD/Union IA/Greene NH/Coos AR/Jefferson WI/Jefferson PA/Greene GA/Jackson CO/Park ME/Lincoln MA/Worcester SC/Chesterfield NY/Schoharie OR/Marion TX/Marion OH/Ashtabula
+17,Waverly,VA/Sussex NE/Lancaster NY/Tioga OH/Pike MN/Wright MO/Lafayette AL/Chambers KS/Coffey FL/Polk IA/Bremer GA/Camden KY/Union PA/Lackawanna WA/Spokane TN/Humphreys WV/Wood IL/Morgan
+17,Windsor,NY/Broome CT/Capitol WI/Dane VA/Isle of Wight SC/Aiken MO/Henry PA/York CO/Weld IL/Shelby ME/Kennebec VT/Windsor KY/Casey MA/Berkshire NC/Bertie NJ/Mercer OH/Ashtabula CA/Sonoma
+18,Ashland,PA/Schuylkill AL/Clay OH/Ashland NE/Saunders MS/Benton LA/Natchitoches KS/Clark OR/Jackson WI/Ashland MA/Middlesex KY/Boyd MT/Powder River MO/Boone IL/Cass ME/Aroostook NH/Grafton VA/Hanover NY/Greene
+18,Auburn,PA/Schuylkill IN/DeKalb WA/King IL/Sangamon WV/Ritchie AL/Lee GA/Barrow ME/Androscoggin NY/Cayuga WY/Lincoln MA/Worcester NH/Rockingham MI/Bay KS/Shawnee KY/Logan CA/Placer NE/Nemaha IA/Sac
+18,Clayton,IN/Hendricks DE/Kent CA/Contra Costa NJ/Gloucester NC/Johnston NY/Jefferson KS/Norton ID/Custer GA/Rabun IL/Adams OK/Pushmataha MI/Lenawee NM/Union WI/Barron WA/Stevens OH/Montgomery LA/Catahoula AL/Barbour
+18,Dayton,WY/Sheridan MD/Howard TX/Liberty IA/Webster MN/Hennepin OH/Montgomery NJ/Middlesex WA/Columbia OH/Greene KY/Campbell NV/Lyon VA/Rockingham IN/Tippecanoe MT/Lake ID/Franklin TN/Rhea PA/Armstrong OR/Yamhill NY/Cattaraugus
+18,Kingston,MI/Tuscola PA/Luzerne WI/Green Lake ID/Shoshone IL/DeKalb OK/Marshall UT/Piute MO/Caldwell RI/Washington GA/Bartow AR/Madison MA/Plymouth NH/Rockingham NY/Ulster TN/Roane OH/Ross WA/Kitsap NJ/Somerset
+18,Lebanon,TN/Wilson PA/Lebanon OR/Linn ME/York NE/Red Willow VA/Russell OK/Marshall NJ/Hunterdon OH/Warren KS/Smith MO/Laclede NH/Grafton SD/Potter WI/Dodge IL/St. Clair IN/Boone CT/Southeastern Connecticut KY/Marion
+18,Lexington,SC/Lexington IL/McLean GA/Oglethorpe TN/Henderson MI/Sanilac NC/Davidson VA/Rockbridge MS/Holmes MO/Lafayette MA/Middlesex AL/Lauderdale KY/Fayette NE/Dawson OR/Morrow OK/Cleveland TX/Lee NY/Greene IN/Jefferson
+18,Lincoln,NE/Lancaster IL/Logan MO/Benton ME/Penobscot DE/Sussex MA/Middlesex IA/Tama MT/Lewis and Clark MI/Alcona KS/Lincoln NM/Lincoln TX/Lee NH/Grafton CA/Placer WA/Lincoln AL/Talladega AR/Washington RI/Providence
+18,Manchester,CT/Capitol TN/Coffee KY/Clay VT/Bennington PA/York WA/Kitsap IL/Scott MA/Essex MI/Washtenaw IA/Delaware CA/Mendocino ME/Kennebec NY/Ontario OH/Adams NH/Hillsborough MD/Carroll OK/Grant GA/Meriwether
+19,Cleveland,AL/Blount MS/Bolivar OK/Pawnee TX/Liberty SC/Greenville WI/Manitowoc MO/Cass AR/Conway TN/Bradley WV/Webster NY/Oneida UT/Emery VA/Russell NM/Mora MN/Le Sueur TX/San Jacinto NC/Rowan GA/White ND/Stutsman OH/Cuyahoga
+19,Hamilton,CO/Moffat MS/Monroe IL/Hancock TX/Hamilton IA/Marion VA/Loudoun OH/Butler PA/Jefferson NY/Madison MT/Ravalli GA/Harris ND/Pembina IN/Steuben AL/Marion MO/Caldwell NC/Martin MI/Allegan KS/Greenwood WA/Skagit
+19,Milford,PA/Pike UT/Beaver VA/Caroline TX/Ellis CT/South Central Connecticut KS/Geary NH/Hillsborough NE/Seward DE/Sussex IL/Iroquois NJ/Hunterdon CA/Lassen ME/Penobscot IN/Kosciusko IA/Dickinson MA/Worcester OH/Clermont MI/Oakland NY/Otsego
+19,Milton,TN/Rutherford KS/Sumner IN/Wayne WA/Pierce DE/Sussex FL/Santa Rosa WI/Rock LA/Lafayette NY/Ulster KY/Trimble NC/Caswell IA/Van Buren NH/Strafford VT/Chittenden MA/Norfolk ND/Cavalier IL/Pike PA/Northumberland WV/Cabell
+19,Newport,NC/Carteret NH/Sullivan OH/Washington RI/Newport OR/Lincoln NY/Herkimer MN/Washington ME/Penobscot NJ/Cumberland PA/Perry NE/Rock MI/Monroe KY/Campbell VT/Orleans IN/Vermillion VA/Giles WA/Pend Oreille AR/Jackson TN/Cocke
+19,Plymouth,MI/Wayne NC/Washington FL/Orange CT/Naugatuck Valley NE/Jefferson VT/Windsor CA/Amador WA/Benton IN/Marshall IL/Hancock IA/Cerro Gordo NY/Chenango WI/Sheboygan NH/Grafton UT/Box Elder ME/Penobscot MA/Plymouth PA/Luzerne OH/Huron
+19,Princeton,OR/Harney NJ/Mercer ID/Latah WV/Mercer IA/Scott MO/Mercer MN/Mille Lacs WI/Green Lake MA/Worcester CA/Glenn IN/Gibson LA/Bossier AL/Jackson NC/Johnston IL/Bureau KS/Franklin ME/Washington KY/Caldwell TX/Collin
+20,Fairfield,CA/Solano ND/Billings NC/Hyde ME/Somerset NJ/Essex PA/Adams IA/Jefferson VT/Franklin TX/Freestone OH/Butler FL/Marion AL/Jefferson KY/Nelson NE/Clay WA/Spokane IL/Wayne VA/Rockbridge MT/Teton CT/Greater Bridgeport ID/Camas
+20,Jackson,CA/Amador LA/East Feliciana MO/Cape Girardeau MN/Jackson NC/Northampton SC/Aiken PA/Susquehanna WI/Washington GA/Butts MT/Beaverhead NE/Dakota MI/Jackson KY/Breathitt NH/Carroll WY/Teton NJ/Ocean TN/Madison AL/Clarke MS/Hinds OH/Jackson
+20,Oxford,MD/Talbot CT/Naugatuck Valley NC/Granville NE/Furnas IA/Johnson KS/Sumner WI/Marquette NY/Chenango MS/Lafayette OH/Butler FL/Sumter IN/Benton NJ/Warren ME/Oxford MA/Worcester GA/Newton AR/Izard AL/Calhoun PA/Chester MI/Oakland
+20,Troy,NY/Albany SC/McCormick WV/Gilmer AL/Pike IN/Spencer NC/Montgomery ID/Latah ME/Waldo KS/Doniphan IL/Madison OH/Miami MI/Oakland NH/Cheshire TX/Bell VA/Fluvanna TN/Obion VT/Orleans NY/Rensselaer PA/Bradford MO/Lincoln MT/Lincoln
+21,Arlington,AZ/Maricopa TX/Tarrant KY/Carlisle SD/Kingsbury MN/Sibley AL/Wilcox TN/Shelby IA/Fayette NE/Washington IN/Rush VA/Arlington KS/Reno OR/Gilliam WA/Snohomish OH/Hancock CO/Kiowa VT/Bennington MA/Middlesex IL/Bureau GA/Calhoun WI/Columbia
+21,Burlington,ND/Ward WA/Skagit CT/Northwest Hills IN/Carroll KS/Coffey KY/Boone IA/Des Moines IL/Kane VT/Chittenden ME/Penobscot TX/Milam MI/Calhoun NJ/Burlington PA/Bradford WY/Big Horn MA/Middlesex OK/Alfalfa WV/Mineral NC/Alamance CO/Kit Carson WI/Racine
+21,Georgetown,MD/Cecil GA/Quitman CO/Clear Creek OH/Brown ID/Bear Lake TX/Williamson TN/Meigs FL/Putnam DE/Sussex MA/Essex SC/Georgetown PA/Beaver NY/Madison IN/Floyd LA/Grant MN/Clay MS/Copiah KY/Scott IL/Vermilion CA/El Dorado ME/Sagadahoc
+21,Monroe,NE/Platte GA/Walton SD/McCook ME/Waldo VA/Amherst WI/Green OH/Butler IN/Adams UT/Sevier NH/Grafton OR/Benton NC/Union IA/Jasper OK/Le Flore WA/Snohomish MI/Monroe CT/Greater Bridgeport LA/Ouachita NY/Orange TN/Overton AR/Monroe
+23,Marion,PA/Franklin LA/Union TX/Guadalupe WI/Waupaca IN/Grant IA/Linn KS/Marion CT/Capitol IL/Williamson KY/Crittenden MT/Flathead MA/Plymouth NC/McDowell AR/Crittenden SC/Marion ND/LaMoure OH/Marion AL/Perry NY/Wayne VA/Smyth SD/Turner MS/Lauderdale MI/Osceola
+23,Salem,SC/Oconee SD/McCook WV/Doddridge FL/Taylor WI/Kenosha IN/Washington NM/Doña Ana IL/Marion MA/Essex AL/Lee AR/Fulton NH/Rockingham UT/Utah MO/Dent VA/Roanoke NJ/Salem CT/Southeastern Connecticut OR/Polk NE/Richardson NY/Washington IA/Henry KY/Livingston OR/Marion OH/Columbiana
+24,Chester,UT/Sanpete AR/Crawford SD/Lake SC/Chester NE/Thayer VT/Windsor MA/Hampden CT/Lower Connecticut River Valley WV/Hancock CA/Plumas OH/Meigs TX/Tyler GA/Dodge NH/Rockingham PA/Delaware NJ/Morris VA/Chesterfield ID/Fremont IA/Howard MD/Queen Anne's MT/Liberty OK/Major NY/Orange IL/Randolph
+24,Greenville,UT/Beaver ME/Piscataquis TX/Hunt NH/Hillsborough NY/Greene CA/Plumas VA/Augusta AL/Butler SC/Greenville WI/Outagamie MS/Washington PA/Mercer OH/Darke NC/Pitt WV/Monroe IN/Floyd FL/Madison IL/Bond KY/Muhlenberg RI/Providence IA/Clay MI/Montcalm MO/Wayne GA/Meriwether
+24,Springfield,OR/Lane KY/Washington VT/Windsor NH/Sullivan MA/Hampden MO/Greene SC/Orangeburg NJ/Union IL/Sangamon WI/Walworth AR/Conway MN/Brown LA/Livingston SD/Bon Homme VA/Fairfax NE/Sarpy ME/Penobscot PA/Delaware CO/Baca WV/Hampshire GA/Effingham OH/Clark TN/Robertson ID/Bingham
+24,Washington,IL/Tazewell VA/Rappahannock NH/Sullivan CT/Northwest Hills VT/Orange AR/Hempstead TX/Washington NJ/Warren CA/Nevada LA/St. Landry UT/Washington NC/Beaufort NE/Washington OK/McClain GA/Wilkes IA/Washington WV/Wood MI/Macomb KS/Washington IN/Daviess DC/District of Columbia PA/Washington MO/Franklin ME/Knox
+25,Clinton,MO/Henry AR/Van Buren MT/Granite NC/Sampson IL/De Witt ME/Kennebec LA/East Feliciana CT/Lower Connecticut River Valley MN/Big Stone NJ/Hunterdon TN/Anderson WI/Rock PA/Beaver NY/Oneida WA/Island KY/Hickman MA/Worcester MD/Prince George's OK/Custer SC/Laurens IN/Vermillion OH/Summit MS/Hinds MI/Lenawee IA/Clinton
+26,Madison,WI/Dane WV/Boone AL/Limestone MS/Madison OH/Lake CT/South Central Connecticut SD/Lake PA/Westmoreland CA/Yolo ME/Somerset NE/Madison MN/Lac qui Parle IL/Madison GA/Morgan MD/Dorchester NY/Madison TN/Davidson AR/St. Francis MO/Monroe NJ/Morris FL/Madison NC/Rockingham VA/Madison IN/Jefferson AL/Madison NH/Carroll KS/Greenwood
+27,Franklin,TN/Williamson TX/Robertson MN/Renville WI/Milwaukee NC/Macon VT/Franklin ME/Hancock NJ/Sussex VA/Southampton NH/Merrimack NY/Delaware KY/Simpson MA/Norfolk PA/Venango LA/St. Mary NE/Franklin IN/Johnson KS/Crawford GA/Heard AR/Izard AL/Monroe OH/Warren ID/Franklin MI/Oakland MO/Howard WV/Pendleton IL/Morgan
